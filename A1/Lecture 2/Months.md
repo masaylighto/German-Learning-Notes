@@ -1,0 +1,14 @@
+|     German    |   English   |
+|---------------|:-----------:|
+|    Januar     |   January   |             
+|    Februar    |   Feruary   |
+|    März       |   Mars      |
+|    April      |   April     |
+|    Mai        |   May       |
+|    Juni       |   June      |
+|    Juli       |   July      |
+|    August     |   August    |
+|    September  |   September |
+|    Oktober    |   October   |
+|    November   |   November  |
+|    Dezember   |   December  |

@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "c39ae35d9cea575f",
+        "id": "d37210f8b9b393ca",
         "type": "tabs",
         "children": [
           {
-            "id": "af3fa13df1a74dcd",
+            "id": "73ea70e12a19ce09",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,7 +20,19 @@
             }
           },
           {
-            "id": "9be998a554a6ca34",
+            "id": "04482e954a12e4b8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "A1/Lecture 14/Possive Pronouns.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "747848cb95532d69",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -32,115 +44,31 @@
             }
           },
           {
-            "id": "3b5a53b31fd57854",
+            "id": "cab1bc4e108ef710",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "A1/Past Tense(Praktikum) vs Present perfect(Perfekt).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "db7996588f2d7463",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "A1/Lecture 1/1. Pronunciation.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9aa11342326396f3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "A1/Lecture 2/Numbers.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "02d90bc5229dd98c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "A1/Lecture 2/Months.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "aceb1da5e34bfc6b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "A1/Lecture 2/Months.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c6cac122a424edd8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "A1/Lecture 2/Seasons.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "997baea2c2465705",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "A1/Lecture 3/personal pronomen.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fe3287185bdc48b6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "A1/Lecture 3/Articles.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5e30d3d3260d491c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "A1/Lecture 3/Sein.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "af306044bee7aecf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "A1/Lecture 3/Articles.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 10
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -206,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "A1/Lecture 3/Articles.md",
+                "file": "A1/Past Tense(Praktikum) vs Present perfect(Perfekt).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -223,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "A1/Lecture 3/Articles.md",
+                "file": "A1/Past Tense(Praktikum) vs Present perfect(Perfekt).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -246,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "A1/Lecture 3/Articles.md"
+                "file": "A1/Past Tense(Praktikum) vs Present perfect(Perfekt).md"
               }
             }
           }
@@ -267,19 +195,31 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "af306044bee7aecf",
+  "active": "cab1bc4e108ef710",
   "lastOpenFiles": [
-    "A1/Lecture 3/Haben.md",
-    "A1/Lecture 3/Sein.md",
-    "A1/Lecture 3/Articles.md",
+    "Images",
+    "Images/The 3 Most Common Irregular Simple Past Verbs.png",
+    "A1/Lecture 1/1. Pronunciation.md",
+    "A1/Past Tense(Praktikum) vs Present perfect(Perfekt).md",
+    "A1/Lecture 15/Preposition.md",
+    "A1/Lecture 14/Possive Pronouns.md",
+    "A1/Lecture 15",
+    "A1/Lecture 14",
+    "A1/Lecture 4/Introducing yourself.md",
+    "A1/Lecture 6",
+    "A1/Lecture 5/Verb Conjugation.md",
     "A1/Lecture 3/personal pronomen.md",
+    "A1/Lecture 3/Haben.md",
+    "A1/Lecture 3/Articles.md",
+    "A1/Lecture 5",
+    "A1/Lecture 4",
+    "A1/Lecture 3/Sein.md",
     "A1/Lecture 2/Seasons.md",
     "A1/Lecture 3",
     "A1/Lecture 2/Months.md",
     "A1/Lecture 2/Seasons",
     "A1/Lecture 2/The days of the weeks.md",
     "A1/Lecture 2/Numbers.md",
-    "A1/Lecture 1/1. Pronunciation.md",
     "A1/Lecture 2",
     "Untitled.canvas"
   ]

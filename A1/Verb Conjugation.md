@@ -18,3 +18,19 @@ er anwortet || not er anwortt
 
 if the verb ended  iwth s, ss, ß, x, z we only add t when conjugate "du" verb
 du reist
+
+### Sein
+Ich bin
+du bist
+es/sie/es ist
+wir sind
+ihr seid
+Sie/sie sind
+
+### Haben
+Ich habe
+Du hast
+Er/Sie/Es hat
+Wir haben
+Ihr habt
+Sie Haben

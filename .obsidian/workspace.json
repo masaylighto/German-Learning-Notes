@@ -4,71 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "d37210f8b9b393ca",
+        "id": "e5ab61690d58adb7",
         "type": "tabs",
         "children": [
           {
-            "id": "73ea70e12a19ce09",
+            "id": "d45f964bd793876c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "A1/Lecture 1/1. Pronunciation.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "04482e954a12e4b8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "A1/Lecture 14/Possive Pronouns.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "747848cb95532d69",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "A1/Lecture 1/1. Pronunciation.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cab1bc4e108ef710",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "A1/Past Tense(Praktikum) vs Present perfect(Perfekt).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "db7996588f2d7463",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "A1/Lecture 1/1. Pronunciation.md",
+                "file": "A1/Composite words.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -134,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "A1/Past Tense(Praktikum) vs Present perfect(Perfekt).md",
+                "file": "A1/Composite words.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "A1/Past Tense(Praktikum) vs Present perfect(Perfekt).md",
+                "file": "A1/Composite words.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "A1/Past Tense(Praktikum) vs Present perfect(Perfekt).md"
+                "file": "A1/Composite words.md"
               }
             }
           }
@@ -195,19 +146,23 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "cab1bc4e108ef710",
+  "active": "d45f964bd793876c",
   "lastOpenFiles": [
+    "A1/Past Tense(Praktikum) vs Present perfect(Perfekt).md",
+    "A1/Forming Plural.md",
+    "A1/Lecture 1/1. Pronunciation.md",
+    "A1/Composite words.md",
+    "A1/Determine the word gender.md",
+    "A1/Lecture 5/Verb Conjugation.md",
+    "A1/Lecture 14/Possive Pronouns.md",
+    "Untitled.md",
     "Images",
     "Images/The 3 Most Common Irregular Simple Past Verbs.png",
-    "A1/Lecture 1/1. Pronunciation.md",
-    "A1/Past Tense(Praktikum) vs Present perfect(Perfekt).md",
     "A1/Lecture 15/Preposition.md",
-    "A1/Lecture 14/Possive Pronouns.md",
     "A1/Lecture 15",
     "A1/Lecture 14",
     "A1/Lecture 4/Introducing yourself.md",
     "A1/Lecture 6",
-    "A1/Lecture 5/Verb Conjugation.md",
     "A1/Lecture 3/personal pronomen.md",
     "A1/Lecture 3/Haben.md",
     "A1/Lecture 3/Articles.md",

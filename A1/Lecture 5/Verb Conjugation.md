@@ -8,3 +8,13 @@ then we add an suffex
 |wir | en|kommen |
 |ihr | t|kommt|
 |Sie | en|kommen|
+
+If the verb ended with t, d, m, or n you nned to add extra e before the conjugation suffex if the prefix doesn't start with e
+example
+reden
+er redet  || not er redt 
+antworten
+er anwortet || not er anwortt
+
+if the verb ended  iwth s, ss, ß, x, z we only add t when conjugate "du" verb
+du reist

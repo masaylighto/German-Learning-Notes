@@ -4,22 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "e5ab61690d58adb7",
+        "id": "a8e05b5719ba302f",
         "type": "tabs",
         "children": [
           {
-            "id": "d45f964bd793876c",
+            "id": "969ae64b689fb15b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "A1/Preposition.md",
+                "file": "A1/Past Tense(Praktikum) vs Present perfect(Perfekt).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1ca1bec9168886ee",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "A1/separable und inseparable verbs.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "A1/Preposition.md",
+                "file": "A1/separable und inseparable verbs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "A1/Preposition.md",
+                "file": "A1/separable und inseparable verbs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "A1/Preposition.md"
+                "file": "A1/separable und inseparable verbs.md"
               }
             }
           }
@@ -146,8 +159,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d45f964bd793876c",
+  "active": "1ca1bec9168886ee",
   "lastOpenFiles": [
+    "A1/Past Tense(Praktikum) vs Present perfect(Perfekt).md",
+    "A1/separable und inseparable verbs.md",
+    "A1/Preposition.md",
+    "A1/Es.md",
+    "Untitled.md",
     "A1/personal pronomen.md",
     "A1/Possive Pronouns.md",
     "A1/Articles.md",
@@ -158,12 +176,9 @@
     "A1/Forming Plural.md",
     "A1/Months.md",
     "A1/Composite words.md",
-    "A1/Past Tense(Praktikum) vs Present perfect(Perfekt).md",
     "A1/1. Pronunciation.md",
-    "Untitled.md",
     "Images",
     "Images/The 3 Most Common Irregular Simple Past Verbs.png",
-    "A1/Preposition.md",
     "A1/Lecture 15",
     "A1/Lecture 14",
     "A1/Introducing yourself.md",

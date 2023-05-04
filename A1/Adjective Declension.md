@@ -1,0 +1,46 @@
+When we have a defintive articles proceeds the adjective
+
+|  Case  | Masculine | Feminine | Neuter | Plural |
+|--------|------------|------------|---------|-------|
+| Nominative| Der Gute Mann| Die Gute Frau | Das Gute Kind | Die Guten Kinder|
+| Accusative| Der Guten Mann| Die Gute Frau | Das Gute Kind | Die Guten Kinder|
+| Dative| Der Guten Mann| Die Guten Frau | Das Guten Kind | Die Guten Kinder|
+| Genitive| Der Guten Mannes| Die Guten Frau | Das Guten Kindes | Die Guten Kinder|
+
+When we have a indefintive articles or possive pronoun or (kein...) proceeds the adjective
+|  Case  | Masculine | Feminine | Neuter | Plural |
+|--------|------------|------------|---------|-------|
+| Nominative| Ein Guter Mann| Eine Gute Frau | Ein Gutes Kind | keine Guten Kinder|
+| Accusative| Einen Guten Mann| Eine Gute Frau | Ein Gutes Kind | keine Guten Kinder|
+| Dative| Einem Guten Mann| Einer Guten Frau | Einem Guten Kind | keinen Guten Kindern- Männern - Frauen|
+| Genitive| Eines Guten Mannes| Einer Guten Frau | Eines Guten Kindes | keiner Guten Kinder|
+
+When nothing proceeds the adjective or if proceeds by one of these
+
+-   dergleichen, ... (the same)
+-   derlei, ... (such)
+-   dessen, deren (whose)
+-   wessen (whose)
+-   manch (some)
+-   etliche mehrere (a few more)
+-   etwas (something)
+-   ein bisschen (a bit)
+-   ein wenig (a little)
+-   ein paar (a couple)
+-   wie viel (how much)
+-   viel (a lot)
+-   wenig (little)
+-   viele (many)
+-   wenige (few)
+-   einige (some)
+
+|  Case  | Masculine | Feminine | Neuter | Plural |
+|--------|------------|------------|---------|-------|
+| Nominative| Guter Mann|  Gute Frau |  Gutes Kind |  Gute Kinder|
+| Accusative| Guten Mann|  Gute Frau |  Gutes Kind |  Guten Kinder|
+| Dative|  Gutem Mann|  Guter Frau |  Gutem Kind |  Guten Kindern- Männern - Frauen|
+| Genitive|  Guten Mannes|  Guter Frau |  Guten Kindes |  Guten Kinder|
+
+### Declension of 2 or more consecutive adjectives
+
+If two or more consecutive adjectives are in a sentence, they will be declined with the same type of declension:

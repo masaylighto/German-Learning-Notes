@@ -1,3 +1,4 @@
+Nominative
 | German  | English |
 |---------|:--------|
 |   Ich   |    I    |
@@ -8,3 +9,12 @@
 |Sie| you(formal)|
 |sie|they|
 
+Accusative
+| German  | Conjugation |
+|---------|:--------|
+|   Ich   |    mich   |
+|   du    |    dich  |
+|er - sie - es | ihn - sie - es|
+|wir | uns|
+|ihr|euch|
+|Sie| Sie|

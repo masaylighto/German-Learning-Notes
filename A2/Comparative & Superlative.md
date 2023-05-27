@@ -5,14 +5,14 @@ In Comparative if the adjective precedes a noun
 1. we preceded by so and follow by wie
 	example
 	Maria läuft _so_ schnell _wie_ Susanne	
-	we can preced so with the following
+	we can precede so with the following
 	genauso
 	nicht so
 	fast so
 	doppelt so
 	halb so
-2.  we form by adding er and foloow by als (than in german)
-	and we dont form the noun by adding mehr like english
+2.  we form by adding er and follow by als (than in German)
+	and we don't form the noun by adding mehr like english
 	example :schnell
 	Friederike läuft schneller als Maria (Friederike run faster than maria)
 in Superlative 

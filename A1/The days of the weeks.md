@@ -7,3 +7,4 @@
 |Freitag    |  Friday       |
 |Samstag    |  Saturday     |
 |Sontag     |  Sonday       |
+

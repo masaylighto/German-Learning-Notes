@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "A2/Konjunktiv.md",
+                "file": "A2/Futur I.md",
                 "mode": "source",
                 "source": false
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "A2/Konjunktiv.md",
+                "file": "A2/Futur I.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "A2/Konjunktiv.md",
+                "file": "A2/Futur I.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "A2/Konjunktiv.md"
+                "file": "A2/Futur I.md"
               }
             }
           }
@@ -182,16 +182,19 @@
   },
   "active": "2adcb6a1573d23ef",
   "lastOpenFiles": [
+    "A1/The days of the weeks.md",
+    "A1/The word gender.md",
+    "A1/Separable und inseparable verbs.md",
+    "A1/Seasons.md",
+    "A2/Futur I.md",
+    "A2/Konjunktiv.md",
+    "A2/Model Verb in the past.md",
     "A2/Konditionalsätze.md",
     "A2/Comparative & Superlative.md",
-    "A1/The word gender.md",
-    "A2/Model Verb in the past.md",
     "A1/Personal pronomen.md",
-    "A2/Konjunktiv.md",
     "A2/Case.md",
     "A1/Preposition.md",
     "A1/Verb Conjugation.md",
-    "A1/Pronunciation.md",
-    "A1/Separable und inseparable verbs.md"
+    "A1/Pronunciation.md"
   ]
 }

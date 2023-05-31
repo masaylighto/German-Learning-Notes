@@ -18,6 +18,6 @@ if i had time, i would clean the windows
 
 to form this type of sentence we:
 1. Place Wenn in the first of the main sentence  
-2. Put the infinitive verb at the end of the sentence 3.
+2. Put the infinitive verb at the end of the sentence
 3. After infinitive verb  the model verb in Konjunktiv Case 
 4. In the second sentence  put the model verb in Konjunktiv Case or the verb if there is no model verb as the first word in the second sentence

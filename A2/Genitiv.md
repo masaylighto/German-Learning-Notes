@@ -27,3 +27,16 @@ and we might add
 das ist claudias hund  (we add s to the end of claudia)
 but if the name ended with s we add ' apostophe
 das ist klaus' hund
+
+# Prepositions
+
+|Deutsch|English|Example| Translation|
+|---|---|---|---|
+|(an)statt|instead of|
+|trotz|despite|
+|während|during|
+|[wegen](https://resources.german.lsa.umich.edu/grammatik/prepositions/#wegen)|because of|
+|außer-/inner-/ober-/unterhalb  <br>[**must** use Genitive with these: **cannot** use Dative]|outside of/inside of/above/below|
+|diesseits/jenseits/beiderseits  <br>[**must** use Genitive with these: **cannot** use Dative]|on this/the other/both side(s)|
+
+

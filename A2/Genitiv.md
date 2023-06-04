@@ -30,13 +30,14 @@ das ist klaus' hund
 
 # Prepositions
 
-|Deutsch|English|Example| Translation|
-|---|---|---|---|
+|Deutsch|English|
+|---|---|
 |(an)statt|instead of|
 |trotz|despite|
 |während|during|
-|[wegen](https://resources.german.lsa.umich.edu/grammatik/prepositions/#wegen)|because of|
+|wegen|because of|
 |außer-/inner-/ober-/unterhalb  <br>[**must** use Genitive with these: **cannot** use Dative]|outside of/inside of/above/below|
 |diesseits/jenseits/beiderseits  <br>[**must** use Genitive with these: **cannot** use Dative]|on this/the other/both side(s)|
+
 
 

@@ -1,4 +1,5 @@
 Nominative
+
 | German  | English |
 |---------|:--------|
 |   Ich   |    I    |
@@ -9,7 +10,9 @@ Nominative
 |Sie| you(formal)|
 |sie|they|
 
+
 Accusative
+
 | German  | Conjugation |
 |---------|:--------|
 |   Ich   |    mich   |
@@ -18,3 +21,4 @@ Accusative
 |wir | uns|
 |ihr|euch|
 |Sie| Sie|
+

@@ -4,47 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "a8e05b5719ba302f",
+        "id": "1100bbd27bac816c",
         "type": "tabs",
         "children": [
           {
-            "id": "d185f90431008527",
+            "id": "85378e0c71d1197b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "A1/Preposition.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e5c1b9b6c103055c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "A2/Case.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2adcb6a1573d23ef",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "A2/reflexive verb.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -102,7 +73,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "ca6822dfed3d2d20",
@@ -180,7 +152,7 @@
       "random-note:Open random note": false
     }
   },
-  "active": "2adcb6a1573d23ef",
+  "active": "d4a028e303a6a304",
   "lastOpenFiles": [
     "A1/Personal pronomen.md",
     "A2/reflexive verb.md",

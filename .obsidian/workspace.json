@@ -11,8 +11,12 @@
             "id": "85378e0c71d1197b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "A1/Adjective Declension.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -73,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "ca6822dfed3d2d20",
@@ -90,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "A2/reflexive verb.md",
+                "file": "A1/Adjective Declension.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "A2/reflexive verb.md",
+                "file": "A1/Adjective Declension.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "A2/reflexive verb.md"
+                "file": "A1/Adjective Declension.md"
               }
             }
           }
@@ -152,7 +155,7 @@
       "random-note:Open random note": false
     }
   },
-  "active": "d4a028e303a6a304",
+  "active": "85378e0c71d1197b",
   "lastOpenFiles": [
     "A1/Personal pronomen.md",
     "A2/reflexive verb.md",

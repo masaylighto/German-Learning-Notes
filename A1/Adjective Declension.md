@@ -8,12 +8,15 @@ When we have a defintive articles proceeds the adjective
 | Genitive| Der Guten Mannes| Die Guten Frau | Das Guten Kindes | Die Guten Kinder|
 
 When we have a indefintive articles or possive pronoun or (kein...) proceeds the adjective
+
 |  Case  | Masculine | Feminine | Neuter | Plural |
 |--------|------------|------------|---------|-------|
 | Nominative| Ein Guter Mann| Eine Gute Frau | Ein Gutes Kind | keine Guten Kinder|
 | Accusative| Einen Guten Mann| Eine Gute Frau | Ein Gutes Kind | keine Guten Kinder|
 | Dative| Einem Guten Mann| Einer Guten Frau | Einem Guten Kind | keinen Guten Kindern- Männern - Frauen|
 | Genitive| Eines Guten Mannes| Einer Guten Frau | Eines Guten Kindes | keiner Guten Kinder|
+
+
 
 When nothing proceeds the adjective or if proceeds by one of these
 

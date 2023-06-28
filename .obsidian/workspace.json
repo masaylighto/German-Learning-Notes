@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "A1/Adjective Declension.md",
+                "file": "A1/Possessive Pronouns.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "A1/Adjective Declension.md",
+                "file": "A1/Possessive Pronouns.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "A1/Adjective Declension.md",
+                "file": "A1/Possessive Pronouns.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "A1/Adjective Declension.md"
+                "file": "A1/Possessive Pronouns.md"
               }
             }
           }
@@ -157,6 +157,8 @@
   },
   "active": "85378e0c71d1197b",
   "lastOpenFiles": [
+    "A2/Comparative & Superlative.md",
+    "A1/Adjective Declension.md",
     "A1/Personal pronomen.md",
     "A2/reflexive verb.md",
     "A2/Genitiv.md",
@@ -171,7 +173,6 @@
     "A1/Seasons.md",
     "A2/Konjunktiv.md",
     "A2/Model Verb in the past.md",
-    "A2/Comparative & Superlative.md",
     "A1/Preposition.md",
     "A1/Verb Conjugation.md",
     "A1/Pronunciation.md"

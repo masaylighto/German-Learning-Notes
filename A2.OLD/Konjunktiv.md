@@ -20,6 +20,7 @@ but using gern with it it become like
 "would like to"  in english
 ### 2. Haben
 to have
+
 | German  | English |
 |---------|:--------|
 |   Ich   |    hätte   |
@@ -35,6 +36,7 @@ i would like to have a pizza
 without the gern it will be "would have"
 ### 3. mögen
 to like
+
 | German  | English |
 |---------|:--------|
 |   Ich   |    möchte   |
@@ -42,7 +44,8 @@ to like
 |er - sie - es | möchte|
 |wir | möchten|
 |ihr|möchtet|
-|Sie| möchten|
+|Sie| möchten| 
+
 ich möchte ein ticket kaufen
 i would like to buy a ticket
 here möchte didn't need to use gern as its used to express likeness on its on
@@ -50,6 +53,7 @@ and it translate to "would like to"
 
 ### 4. sein
 to be
+
 | German  | English |
 |---------|:--------|
 |   Ich   |    wäre   |
@@ -67,6 +71,7 @@ you would rather be an engineer
 "wärst lieber" translated to "would rather be"
 5.können
 to can
+
 | German  | English |
 |---------|:--------|
 |   Ich   |    könnte   |

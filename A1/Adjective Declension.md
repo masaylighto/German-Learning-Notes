@@ -1,4 +1,4 @@
-When we have a defintive articles proceeds the adjective
+When we have a definitive articles proceeds the adjective
 
 |  Case  | Masculine | Feminine | Neuter | Plural |
 |--------|------------|------------|---------|-------|

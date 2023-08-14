@@ -102,8 +102,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "ca6822dfed3d2d20",
@@ -181,7 +180,7 @@
       "random-note:Open random note": false
     }
   },
-  "active": "d4a028e303a6a304",
+  "active": "b8a6b94de0fb925d",
   "lastOpenFiles": [
     "A2/4. Accusative.md",
     "A2/5. Dative.md",

@@ -1,5 +1,6 @@
 when we want to conjugate a verb we need to find its root for example the verb kommen is komm
-then we add an suffex 
+then we add an suffex
+
 | Pronoun  | suffex | Conjugation |
 |---------|:--------|-------|
 |   Ich   |    e    | komme | 

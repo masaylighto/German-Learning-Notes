@@ -90,9 +90,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "4c2346dadf5d2740",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1. als ob.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -166,7 +178,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "A2/9. Future 1.md",
+                "file": "1. als ob.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +195,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "A2/9. Future 1.md",
+                "file": "1. als ob.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -206,7 +218,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "A2/9. Future 1.md"
+                "file": "1. als ob.md"
               }
             }
           },
@@ -238,13 +250,15 @@
       "random-note:Open random note": false
     }
   },
-  "active": "90986e51d18111f8",
+  "active": "4c2346dadf5d2740",
   "lastOpenFiles": [
+    "A2/9. Future 1.md",
+    "1. als ob.md",
+    "B1",
     "A2/18. Time Adverb.md",
     "A2/17. Word Formation.md",
     "A2/16. Indirect Questions.md",
     "A2/11. Genitive.md",
-    "A2/9. Future 1.md",
     "A2/8. Conditional Clause.md",
     "A2/15. difference between mögen, lieben, gern haben,lieb haben, verliebt sein.md",
     "A2/14. Simple Past.md",
@@ -268,7 +282,6 @@
     "A2.OLD/Konjunktiv.md",
     "A2.OLD/Aus vs Von.md",
     "A2.OLD/Genitiv.md",
-    "A2.OLD/Konditionalsätze.md",
     "Untitled.canvas"
   ]
 }

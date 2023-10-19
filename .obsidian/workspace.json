@@ -97,14 +97,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. als ob.md",
+                "file": "B1/1. als ob.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9b9d28d6c8341002",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "B1/2. Sentence Connector.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -178,7 +190,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. als ob.md",
+                "file": "B1/2. Sentence Connector.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -195,7 +207,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. als ob.md",
+                "file": "B1/2. Sentence Connector.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -218,7 +230,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. als ob.md"
+                "file": "B1/2. Sentence Connector.md"
               }
             }
           },
@@ -250,10 +262,11 @@
       "random-note:Open random note": false
     }
   },
-  "active": "4c2346dadf5d2740",
+  "active": "9b9d28d6c8341002",
   "lastOpenFiles": [
+    "B1/2. Sentence Connector.md",
     "A2/9. Future 1.md",
-    "1. als ob.md",
+    "B1/1. als ob.md",
     "B1",
     "A2/18. Time Adverb.md",
     "A2/17. Word Formation.md",
@@ -281,7 +294,6 @@
     "A2.OLD/Futur I.md",
     "A2.OLD/Konjunktiv.md",
     "A2.OLD/Aus vs Von.md",
-    "A2.OLD/Genitiv.md",
     "Untitled.canvas"
   ]
 }

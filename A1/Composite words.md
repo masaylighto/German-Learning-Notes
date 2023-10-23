@@ -15,7 +15,7 @@ die staße + die bahn = die straßenbahn
 or with er
 das wort + das buch = wörterbuch
 
-### Verb + Nomen
+### Verb + noun
 suchen + die machine = die suchmaschine
 laufen + die schuhe = die laufschuhe
 fahren + das rad = das fahrrad

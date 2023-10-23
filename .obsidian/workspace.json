@@ -4,23 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "1100bbd27bac816c",
+        "id": "2a830f807ff20bb0",
         "type": "tabs",
         "children": [
           {
-            "id": "85378e0c71d1197b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "A1/Adjective Declension.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c78c9263a433c1eb",
+            "id": "68d89b71f9af723d",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -30,93 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "cf17c280f09c5f14",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "A2/8. Conditional Clause.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f9d7282cbed11420",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "A2/4. Accusative.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "10f13d72c582c8b7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "A2/7. Subjunctive 2.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bfa371a06326ef0a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "A2/16. Indirect Questions.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "90986e51d18111f8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "A2/9. Future 1.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4c2346dadf5d2740",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "B1/1. als ob.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9b9d28d6c8341002",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "B1/2. Sentence Connector.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 8
+        ]
       }
     ],
     "direction": "vertical"
@@ -190,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "B1/2. Sentence Connector.md",
+                "file": "A2/1. Modal verbs in the past.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -207,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "B1/2. Sentence Connector.md",
+                "file": "A2/1. Modal verbs in the past.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -230,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "B1/2. Sentence Connector.md"
+                "file": "A2/1. Modal verbs in the past.md"
               }
             }
           },
@@ -262,8 +165,24 @@
       "random-note:Open random note": false
     }
   },
-  "active": "9b9d28d6c8341002",
+  "active": "68d89b71f9af723d",
   "lastOpenFiles": [
+    "A1/Verb Conjugation.md",
+    "A1/The word gender.md",
+    "A1/The days of the weeks.md",
+    "A1/Separable und inseparable verbs.md",
+    "A1/Seasons.md",
+    "A1/Pronunciation.md",
+    "A1/Preposition.md",
+    "A1/Possessive Pronouns.md",
+    "A1/Personal pronomen.md",
+    "A1/Past Tense(Praktikum) vs Present perfect(Perfekt).md",
+    "A1/Numbers.md",
+    "A1/Introducing yourself.md",
+    "A1/Forming Plural.md",
+    "A1/Es.md",
+    "A1/Composite words.md",
+    "A1/Adjective Declension.md",
     "B1/2. Sentence Connector.md",
     "A2/9. Future 1.md",
     "B1/1. als ob.md",
@@ -275,25 +194,9 @@
     "A2/8. Conditional Clause.md",
     "A2/15. difference between mögen, lieben, gern haben,lieb haben, verliebt sein.md",
     "A2/14. Simple Past.md",
-    "A2/3. Subjunctive And Conjunctional adverb.md",
-    "A1/Adjective Declension.md",
-    "A2/2. Comparative & Superlative.md",
-    "A2/1. Modal verbs in the past.md",
-    "A1/Verb Conjugation.md",
-    "A2/14. adjective declination.md",
     "B1",
-    "A2.OLD/reflexive verb.md",
-    "A2/13. Reflexive pronoun.md",
-    "A2/6. Two Way preposition.md",
-    "A2/7. Subjunctive 2.md",
-    "A2/10. When to use what.md",
-    "A2/12. Pronouns.md",
     "Images/Modal Verb in the past.png",
     "Images/Possessive Pronouns.png",
-    "A2.OLD/Case.md",
-    "A2.OLD/Futur I.md",
-    "A2.OLD/Konjunktiv.md",
-    "A2.OLD/Aus vs Von.md",
     "Untitled.canvas"
   ]
 }

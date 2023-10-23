@@ -1,4 +1,4 @@
-Icg stelle mich vor :: i introduce my self
+Ich stelle mich vor :: i introduce my self
 Hallo.
 mein name ist feras. :: my name is feras.
 ich heiße Feras :: i'm called feras.

@@ -24,6 +24,7 @@
 |gegen| against | Place & Thoughts|
 
 Accusative Verbs 
+
 |German|English|Example|
 |:--------|--------|---------|
 |bestellen| to order|Ich bestelle ein Wasser.|
@@ -39,6 +40,7 @@ Accusative Verbs
 |vergessen|to forget|Ich habe den Termin nicht vergessen.|
 |verlieren|to lose|Hast du deinen Schlüssel verloren?.|
 |verstehen| to understand|Er versteht mich.|
+
 
 
 #### Only Dative

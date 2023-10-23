@@ -7,7 +7,7 @@ When we have a definitive articles proceeds the adjective
 | Dative| Der Guten Mann| Die Guten Frau | Das Guten Kind | Die Guten Kinder|
 | Genitive| Der Guten Mannes| Die Guten Frau | Das Guten Kindes | Die Guten Kinder|
 
-When we have a indefintive articles or possive pronoun or (kein...) proceeds the adjective
+When we have a indefinite articles or possive pronoun or (kein...) proceeds the adjective
 
 |  Case  | Masculine | Feminine | Neuter | Plural |
 |--------|------------|------------|---------|-------|

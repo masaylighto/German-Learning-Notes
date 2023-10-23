@@ -1,4 +1,4 @@
-1. Haben and Sein are far more used in the past tense than they are in the perfect one
+1. Haben and Sein are far more used in the past tense than they are in the perfect tense
 2. Wollen, Können, Müssen, Dürfen and Mögen are used only with the simple past
 3. Find Used in the past tense if it was about physical related stuff, while if it was not physical related stuff it will be used in the present perfect
 4. Denken, Kennen and wissen could be used with both tense

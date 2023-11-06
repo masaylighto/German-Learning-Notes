@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "B1/5. Word building.md",
+                "file": "B1/4. Genitive Preposition.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "B1/5. Word building.md",
+                "file": "B1/4. Genitive Preposition.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "B1/5. Word building.md",
+                "file": "B1/4. Genitive Preposition.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "B1/5. Word building.md"
+                "file": "B1/4. Genitive Preposition.md"
               }
             }
           },
@@ -166,10 +166,11 @@
   },
   "active": "68d89b71f9af723d",
   "lastOpenFiles": [
-    "B1/4. Genitive Preposition.md",
-    "B1/5. Word building.md",
-    "B1/2. Sentence Connector.md",
     "B1/3. Modal particles.md",
+    "B1/1. als ob.md",
+    "B1/2. Sentence Connector.md",
+    "B1/5. Word building.md",
+    "B1/4. Genitive Preposition.md",
     "A2/17. Word Formation.md",
     "A2/16. Indirect Questions.md",
     "A2/15. difference between mögen, lieben, gern haben,lieb haben, verliebt sein.md",
@@ -191,7 +192,6 @@
     "A1/The word gender.md",
     "A1/The days of the weeks.md",
     "A1/Separable und inseparable verbs.md",
-    "A1/Seasons.md",
     "B1",
     "B1",
     "Images/Modal Verb in the past.png",

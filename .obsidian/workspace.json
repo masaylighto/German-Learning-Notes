@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "B1/11. Infinitive Sentence.md",
+                "file": "A2/8. Conditional Clause.md",
                 "mode": "source",
                 "source": false
               }
@@ -90,7 +90,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 401.5
   },
   "right": {
     "id": "ca6822dfed3d2d20",
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "B1/11. Infinitive Sentence.md",
+                "file": "A2/8. Conditional Clause.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "B1/11. Infinitive Sentence.md",
+                "file": "A2/8. Conditional Clause.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "B1/11. Infinitive Sentence.md"
+                "file": "A2/8. Conditional Clause.md"
               }
             }
           },
@@ -179,8 +179,9 @@
   },
   "active": "ebba6d3d7d0e728f",
   "lastOpenFiles": [
-    "B1/10 Adjective as Names.md",
+    "A2/7. Subjunctive 2.md",
     "B1/11. Infinitive Sentence.md",
+    "B1/10 Adjective as Names.md",
     "Images/Adjective as name.png",
     "A2/1. Modal verbs in the past.md",
     "B1/9. Noun-Declination.md",
@@ -197,7 +198,6 @@
     "A2/2. Comparative & Superlative.md",
     "A1/Adjective Declension.md",
     "B1/5. Word building.md",
-    "A2/7. Subjunctive 2.md",
     "A2/3. Subjunctive And Conjunctional adverb.md",
     "B1/4. Genitive Preposition.md",
     "B1/3. Modal particles.md",

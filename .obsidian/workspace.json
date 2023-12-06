@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "ffad661587029649",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Similar Words.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -106,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "B1/13. Past continuous.md",
+                "file": "Similar Words.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "B1/13. Past continuous.md",
+                "file": "Similar Words.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "B1/13. Past continuous.md"
+                "file": "Similar Words.md"
               }
             }
           },
@@ -177,11 +189,13 @@
       "random-note:Open random note": false
     }
   },
-  "active": "ebba6d3d7d0e728f",
+  "active": "ffad661587029649",
   "lastOpenFiles": [
+    "B1/13. Past continuous.md",
+    "Similar Words.md",
+    "B1/Untitled.md",
     "B1/5. Word building.md",
     "B1/2. Sentence Connector.md",
-    "B1/13. Past continuous.md",
     "B1/12. Past tense.md",
     "A2/8. Conditional Clause.md",
     "A2/7. Subjunctive 2.md",
@@ -208,8 +222,6 @@
     "A2/15. difference between mögen, lieben, gern haben,lieb haben, verliebt sein.md",
     "A2/14. Simple Past.md",
     "A2/13. Reflexive pronoun.md",
-    "A2/12. Pronouns.md",
-    "A2/11. Genitive.md",
     "B1",
     "B1",
     "Images/Possessive Pronouns.png",

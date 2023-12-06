@@ -16,3 +16,7 @@ aufstellen => setup
 ausstellen =>exhibit
 einstellen => adjust
 
+ausfallen => fail
+auffallen => notice
+
+ausfüllen => fill out

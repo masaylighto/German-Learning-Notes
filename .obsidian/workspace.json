@@ -37,14 +37,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "B1/21. Passive in past tense.md",
+                "file": "A2/8. Conditional Clause.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fa08a0f12c67c9e2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "B1/10 Adjective as Names.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -118,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "B1/21. Passive in past tense.md",
+                "file": "B1/10 Adjective as Names.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "B1/21. Passive in past tense.md",
+                "file": "B1/10 Adjective as Names.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "B1/21. Passive in past tense.md"
+                "file": "B1/10 Adjective as Names.md"
               }
             }
           },
@@ -168,11 +180,14 @@
             "state": {
               "type": "all-properties",
               "state": {
-                "sortOrder": "frequency"
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -186,46 +201,28 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "random-note:Open random note": false
+      "random-note:Open random note": false,
+      "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "ffad661587029649",
+  "active": "fa08a0f12c67c9e2",
   "lastOpenFiles": [
-    "B1/20. passive in the past perfect.md",
-    "B1/21. Passive in past tense.md",
-    "B1/19. Passive in presence with model verbs.md",
-    "B1/17. Final Secondary Sentence.md",
-    "B1/15. Conjugative 2.md",
-    "B1/18 preposition with relative station.md",
-    "B1/16. relative pronouns.md",
-    "Images/Relative pronuons.png",
-    "B1/14. indem-sodas.md",
-    "Similar Words.md",
-    "B1/13. Past continuous.md",
-    "B1/5. Word building.md",
     "B1/2. Sentence Connector.md",
-    "B1/12. Past tense.md",
-    "A2/8. Conditional Clause.md",
-    "A2/7. Subjunctive 2.md",
-    "B1/11. Infinitive Sentence.md",
-    "B1/10 Adjective as Names.md",
-    "Images/Adjective as name.png",
-    "A2/1. Modal verbs in the past.md",
-    "B1/9. Noun-Declination.md",
-    "Images/Exception of Masculine noun declination.png",
-    "Images/Endind for Masculine noun to be declined.png",
-    "Images/Modal Verb in the past.png",
-    "Images/Masculine noun declination.png",
-    "B1/1. als ob.md",
-    "B1/8. Prepositions of place.md",
-    "B1/6. Present Participle as Adjective.md",
-    "B1/7. Past Participle as adjective.md",
-    "A2/16. Indirect Questions.md",
-    "A2/2. Comparative & Superlative.md",
+    "A1/Composite words.md",
     "A1/Adjective Declension.md",
-    "B1",
-    "B1",
-    "Images/Possessive Pronouns.png",
-    "Untitled.canvas"
+    "A2/16. Indirect Questions.md",
+    "A2/8. Conditional Clause.md",
+    "B1/15. Conjugative 2.md",
+    "B1/19. Passive in presence with model verbs.md",
+    "B1/18 preposition with relative station.md",
+    "A2/3. Subjunctive And Conjunctional adverb.md",
+    "B1/17. Final Secondary Sentence.md",
+    "B1/6. Present Participle as Adjective.md",
+    "A2/4. Accusative.md",
+    "A2/2. Comparative & Superlative.md",
+    "A2/1. Modal verbs in the past.md",
+    "B1/21. Passive in past tense.md",
+    "B1/20. passive in the past perfect.md",
+    "B1/16. relative pronouns.md"
   ]
 }

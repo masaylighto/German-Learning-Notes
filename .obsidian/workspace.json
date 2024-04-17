@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "A1/5. Composite words.md",
+                "file": "B1/11. Infinitive Sentence.md",
                 "mode": "source",
                 "source": false
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "A1/5. Composite words.md",
+                "file": "B1/11. Infinitive Sentence.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "A1/5. Composite words.md",
+                "file": "B1/11. Infinitive Sentence.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "A1/5. Composite words.md"
+                "file": "B1/11. Infinitive Sentence.md"
               }
             }
           },
@@ -219,6 +219,8 @@
   },
   "active": "42dbe86d6383ea05",
   "lastOpenFiles": [
+    "B1/14. indem-sodas.md",
+    "A1/5. Composite words.md",
     "A2/2. Comparative & Superlative.md",
     "Course/Sprachkurs/6..md",
     "Course/Sprachkurs",
@@ -244,7 +246,6 @@
     "A2/15. difference between mögen, lieben, gern haben,lieb haben, verliebt sein.md",
     "A2/14. Simple Past.md",
     "A2/13. Reflexive pronoun.md",
-    "A2/11. Genitive.md",
-    "A2/10. When to use what.md"
+    "A2/11. Genitive.md"
   ]
 }

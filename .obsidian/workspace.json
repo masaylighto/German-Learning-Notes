@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Course/Sprachkurs/6..md",
+                "file": "A2/2. Comparative & Superlative.md",
                 "mode": "source",
                 "source": false
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Course/Sprachkurs/6..md",
+                "file": "A2/2. Comparative & Superlative.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Course/Sprachkurs/6..md",
+                "file": "A2/2. Comparative & Superlative.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Course/Sprachkurs/6..md"
+                "file": "A2/2. Comparative & Superlative.md"
               }
             }
           },
@@ -219,9 +219,9 @@
   },
   "active": "42dbe86d6383ea05",
   "lastOpenFiles": [
+    "Course/Sprachkurs/6..md",
     "Course/Sprachkurs",
     "A2/2. Comparative & Superlative.md",
-    "Course/Sprachkurs/6..md",
     "Course",
     "B1/15. Conjugative 2 Regrets.md",
     "A1/12. Adjective Declension.md",

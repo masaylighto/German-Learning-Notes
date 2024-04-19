@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "B1/11. Infinitive Sentence.md",
+                "file": "Course/Sprachkurs/8. Negation.md",
                 "mode": "source",
                 "source": false
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "B1/11. Infinitive Sentence.md",
+                "file": "Course/Sprachkurs/8. Negation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "B1/11. Infinitive Sentence.md",
+                "file": "Course/Sprachkurs/8. Negation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "B1/11. Infinitive Sentence.md"
+                "file": "Course/Sprachkurs/8. Negation.md"
               }
             }
           },
@@ -219,10 +219,12 @@
   },
   "active": "42dbe86d6383ea05",
   "lastOpenFiles": [
+    "Course/Sprachkurs/6.md",
+    "Course/Sprachkurs/8. Negation.md",
+    "B1/11. Infinitive Sentence.md",
     "B1/14. indem-sodas.md",
     "A1/5. Composite words.md",
     "A2/2. Comparative & Superlative.md",
-    "Course/Sprachkurs/6..md",
     "Course/Sprachkurs",
     "Course",
     "B1/15. Conjugative 2 Regrets.md",
@@ -244,8 +246,6 @@
     "A2/17. Word Formation.md",
     "A2/16. Indirect Questions.md",
     "A2/15. difference between mögen, lieben, gern haben,lieb haben, verliebt sein.md",
-    "A2/14. Simple Past.md",
-    "A2/13. Reflexive pronoun.md",
-    "A2/11. Genitive.md"
+    "A2/14. Simple Past.md"
   ]
 }

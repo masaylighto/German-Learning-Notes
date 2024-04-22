@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Course/Sprachkurs/8. Negation.md",
+                "file": "Course/Sprachkurs/6.md",
                 "mode": "source",
                 "source": false
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Course/Sprachkurs/8. Negation.md",
+                "file": "Course/Sprachkurs/6.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Course/Sprachkurs/8. Negation.md",
+                "file": "Course/Sprachkurs/6.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Course/Sprachkurs/8. Negation.md"
+                "file": "Course/Sprachkurs/6.md"
               }
             }
           },
@@ -219,8 +219,8 @@
   },
   "active": "42dbe86d6383ea05",
   "lastOpenFiles": [
-    "Course/Sprachkurs/6.md",
     "Course/Sprachkurs/8. Negation.md",
+    "Course/Sprachkurs/6.md",
     "B1/11. Infinitive Sentence.md",
     "B1/14. indem-sodas.md",
     "A1/5. Composite words.md",

@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Course/A1/8.2 Way to suggest,.md",
+                "file": "Course/A1/9 Capitalization.md",
                 "mode": "source",
                 "source": false
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Course/A1/8.2 Way to suggest,.md",
+                "file": "Course/A1/9 Capitalization.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Course/A1/8.2 Way to suggest,.md",
+                "file": "Course/A1/9 Capitalization.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Course/A1/8.2 Way to suggest,.md"
+                "file": "Course/A1/9 Capitalization.md"
               }
             }
           },
@@ -219,8 +219,9 @@
   },
   "active": "42dbe86d6383ea05",
   "lastOpenFiles": [
-    "Course/Sprachkurs/8. Negation.md",
     "Course/A1/8.2 Way to suggest,.md",
+    "Course/A1/9 Capitalization.md",
+    "Course/Sprachkurs/8. Negation.md",
     "Course/A1",
     "Course/No.md",
     "Course/Sprachkurs/6. various words.md",
@@ -246,7 +247,6 @@
     "B1/3. Modal particles.md",
     "B1/2. Sentence Connector.md",
     "B1/1. als ob.md",
-    "A2/18. Time Adverb.md",
-    "A2/17. Word Formation.md"
+    "A2/18. Time Adverb.md"
   ]
 }

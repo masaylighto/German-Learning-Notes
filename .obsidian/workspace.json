@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Course/Sprachkurs/10..md",
+                "file": "Course/Sprachkurs/15.md",
                 "mode": "source",
                 "source": false
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Course/Sprachkurs/10..md",
+                "file": "Course/Sprachkurs/15.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Course/Sprachkurs/10..md",
+                "file": "Course/Sprachkurs/15.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Course/Sprachkurs/10..md"
+                "file": "Course/Sprachkurs/15.md"
               }
             }
           },
@@ -219,8 +219,10 @@
   },
   "active": "42dbe86d6383ea05",
   "lastOpenFiles": [
-    "A1/8. Separable und inseparable verbs.md",
+    "Course/Sprachkurs/13.md",
+    "Course/Sprachkurs/15.md",
     "Course/Sprachkurs/10..md",
+    "A1/8. Separable und inseparable verbs.md",
     "A1/7. Personal pronomen.md",
     "Course/Sprachkurs/8. Negation.md",
     "Course/Sprachkurs/6. various words.md",
@@ -245,8 +247,6 @@
     "B1/19. Passive in presence with model verbs.md",
     "A2/7. Subjunctive 2.md",
     "B1/21. Passive in past tense.md",
-    "B1/5. Word building.md",
-    "B1/4. Genitive Preposition.md",
-    "B1/3. Modal particles.md"
+    "B1/5. Word building.md"
   ]
 }

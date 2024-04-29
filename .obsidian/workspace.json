@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "B1/18 preposition with relative station.md",
+                "file": "Course/A1/10.md",
                 "mode": "source",
                 "source": false
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "B1/18 preposition with relative station.md",
+                "file": "Course/A1/10.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "B1/18 preposition with relative station.md",
+                "file": "Course/A1/10.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "B1/18 preposition with relative station.md"
+                "file": "Course/A1/10.md"
               }
             }
           },
@@ -203,7 +203,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -219,6 +219,8 @@
   },
   "active": "42dbe86d6383ea05",
   "lastOpenFiles": [
+    "B1/18 preposition with relative station.md",
+    "Course/A1/10.md",
     "A2/10. When to use what.md",
     "B1/17. Final Secondary Sentence.md",
     "A1/12. Adjective Declension.md",
@@ -245,8 +247,6 @@
     "A2/8. Conditional Clause.md",
     "B1/7. Past Participle as adjective.md",
     "B1/6. Present Participle as Adjective.md",
-    "B1/20. passive in the past perfect.md",
-    "B1/19. Passive in presence with model verbs.md",
-    "A2/7. Subjunctive 2.md"
+    "B1/20. passive in the past perfect.md"
   ]
 }

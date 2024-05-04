@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Course/A1/11.3 Perfekt.md",
+                "file": "Course/A1/10.4.md",
                 "mode": "source",
                 "source": false
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Course/A1/11.3 Perfekt.md",
+                "file": "Course/A1/10.4.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Course/A1/11.3 Perfekt.md",
+                "file": "Course/A1/10.4.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Course/A1/11.3 Perfekt.md"
+                "file": "Course/A1/10.4.md"
               }
             }
           },
@@ -220,7 +220,10 @@
   "active": "42dbe86d6383ea05",
   "lastOpenFiles": [
     "Course/A1/10.md",
+    "Course/A1/10.4.md",
     "Course/A1/11.3 Perfekt.md",
+    "Course/A1/8.2 Way to suggest,.md",
+    "Course/A1/9 Capitalization.md",
     "B1/18 preposition with relative station.md",
     "A2/10. When to use what.md",
     "B1/17. Final Secondary Sentence.md",
@@ -232,8 +235,6 @@
     "A1/7. Personal pronomen.md",
     "Course/Sprachkurs/8. Negation.md",
     "Course/Sprachkurs/6. various words.md",
-    "Course/A1/8.2 Way to suggest,.md",
-    "Course/A1/9 Capitalization.md",
     "Course/A1",
     "Course/No.md",
     "Course/Sprachkurs/6.md",
@@ -246,7 +247,6 @@
     "B1/15. Conjugative 2 Regrets.md",
     "A1/1. Pronunciation.md",
     "A2/8. Conditional Clause.md",
-    "B1/7. Past Participle as adjective.md",
-    "B1/6. Present Participle as Adjective.md"
+    "B1/7. Past Participle as adjective.md"
   ]
 }

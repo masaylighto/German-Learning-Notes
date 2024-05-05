@@ -10,4 +10,3 @@
 10. After dot .
 11. Name from adjective
 12. Shortcut for example DB 
-13. 

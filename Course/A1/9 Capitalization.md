@@ -1,3 +1,4 @@
+## Capitalization Rules
 1. Start of Sentence
 2. Nouns
 3. Names

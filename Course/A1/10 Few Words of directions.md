@@ -1,3 +1,4 @@
+## Few Words of directions
 1. in der Nähe von  | weit von
 	near to, far away from
 2.  auf der rechten Seite | auf der linken Seite

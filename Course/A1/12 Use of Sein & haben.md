@@ -9,6 +9,7 @@
 2. transtive verb
 3. reflexive verb
 4. some other verb
+
 ### Action verbs 
 gehen — kommen — fliegen — laufen — reisen —klettern — landen — wandern — rennen
 
@@ -24,9 +25,13 @@ gelingen — geschehen — passieren
 
 
 ## Reading Numbers
+
 if its data then we read it like engish  devide it to two part for example
+
 1552 => 15, 52  fünfzehnhundertzweiundfünfzig.
+
 and as number it will be read as complete 
+
 1552  eintausendfünfhundertzweiundfünfzig.
 
 

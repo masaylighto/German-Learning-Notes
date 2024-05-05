@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Course/A1/11.4.md",
+                "file": "Course/A1/12.md",
                 "mode": "source",
                 "source": false
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Course/A1/11.4.md",
+                "file": "Course/A1/12.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Course/A1/11.4.md",
+                "file": "Course/A1/12.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Course/A1/11.4.md"
+                "file": "Course/A1/12.md"
               }
             }
           },
@@ -217,22 +217,25 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "d4a028e303a6a304",
+  "active": "42dbe86d6383ea05",
   "lastOpenFiles": [
-    "Past Tense verb conjugation.png",
-    "Course/A1/11.3 Perfekt.md",
-    "Course/A1/11.4.md",
-    "Course/A1/10.4.md",
+    "Course/A1/11.4 Past tense.md",
+    "Course/A1/12.md",
+    "Images/Model Verb in the simple past.jpg",
+    "Images/Past Tense verb conjugation.png",
+    "Course/Sprachkurs/15.md",
+    "Course/Sprachkurs/13.md",
+    "Course/Sprachkurs/10..md",
     "Course/A1/10.md",
+    "Course/A1/10.4 Use of zu & auf ,aus ,an.md",
+    "B1/9. Noun-Declination.md",
+    "Course/A1/11.3 Perfekt.md",
     "Course/A1/8.2 Way to suggest,.md",
     "Course/A1/9 Capitalization.md",
     "B1/18 preposition with relative station.md",
     "A2/10. When to use what.md",
     "B1/17. Final Secondary Sentence.md",
     "A1/12. Adjective Declension.md",
-    "Course/Sprachkurs/15.md",
-    "Course/Sprachkurs/13.md",
-    "Course/Sprachkurs/10..md",
     "A1/8. Separable und inseparable verbs.md",
     "A1/7. Personal pronomen.md",
     "Course/Sprachkurs/8. Negation.md",
@@ -246,7 +249,6 @@
     "A2/2. Comparative & Superlative.md",
     "Course/Sprachkurs",
     "Course",
-    "B1/15. Conjugative 2 Regrets.md",
-    "A1/1. Pronunciation.md"
+    "B1/15. Conjugative 2 Regrets.md"
   ]
 }

@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Course/A2/1.md",
+                "file": "Course/A2/2..md",
                 "mode": "source",
                 "source": false
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Course/A2/1.md",
+                "file": "Course/A2/2..md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Course/A2/1.md",
+                "file": "Course/A2/2..md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Course/A2/1.md"
+                "file": "Course/A2/2..md"
               }
             }
           },
@@ -219,9 +219,18 @@
   },
   "active": "42dbe86d6383ea05",
   "lastOpenFiles": [
-    "Course/Verb notes.md",
-    "Course/A2/1.md",
+    "A2/7. Subjunctive 2.md",
+    "A2/4. Accusative.md",
+    "A2/3. Subjunctive And Conjunctional adverb.md",
+    "B1/7. Past Participle as adjective.md",
+    "B1/6. Present Participle as Adjective.md",
+    "B1/4. Genitive Preposition.md",
+    "B1/3. Modal particles.md",
+    "B1/2. Sentence Connector.md",
     "A1/1. Pronunciation.md",
+    "Course/A2/2..md",
+    "Course/A2/1.md",
+    "Course/Verb notes.md",
     "Course/A1/12. Use of Sein & haben.md",
     "Course/A2",
     "Course/A1/11.3. Perfekt.md",
@@ -249,16 +258,7 @@
     "Course/Sprachkurs/13.md",
     "Course/Sprachkurs/10..md",
     "B1/9. Noun-Declination.md",
-    "B1/18 preposition with relative station.md",
-    "A2/10. When to use what.md",
-    "B1/17. Final Secondary Sentence.md",
-    "A1/12. Adjective Declension.md",
-    "A1/8. Separable und inseparable verbs.md",
-    "A1/7. Personal pronomen.md",
     "Course/A1",
-    "Course/No.md",
-    "Course/Sprachkurs/6.md",
-    "B1/11. Infinitive Sentence.md",
     "Course/Sprachkurs",
     "Course"
   ]

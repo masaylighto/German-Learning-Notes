@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Course/A1/12. Use of Sein & haben.md",
+                "file": "Course/A2/1.md",
                 "mode": "source",
                 "source": false
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Course/A1/12. Use of Sein & haben.md",
+                "file": "Course/A2/1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Course/A1/12. Use of Sein & haben.md",
+                "file": "Course/A2/1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Course/A1/12. Use of Sein & haben.md"
+                "file": "Course/A2/1.md"
               }
             }
           },
@@ -219,6 +219,9 @@
   },
   "active": "42dbe86d6383ea05",
   "lastOpenFiles": [
+    "Course/A1/12. Use of Sein & haben.md",
+    "Course/A2/1.md",
+    "Course/A2",
     "Course/A1/11.3. Perfekt.md",
     "Course/A1/10. Few Words of directions.md",
     "Course/A1/8.2. Way to suggest,.md",
@@ -226,7 +229,6 @@
     "Course/A1/12.2.md",
     "Course/A1/9. Capitalization.md",
     "Course/A1/10.4. Use of zu & auf ,aus ,an.md",
-    "Course/A1/12. Use of Sein & haben.md",
     "A1/1. Pronunciation.md",
     "Course/Sprachkurs/8. Negation.md",
     "Course/A1/Old  Image/WhatsApp Image 2024-04-25 at 10.24.04_f1bdeecd.jpg",
@@ -257,7 +259,6 @@
     "Course/Sprachkurs/6.md",
     "B1/11. Infinitive Sentence.md",
     "B1/14. indem-sodas.md",
-    "A1/5. Composite words.md",
     "Course/Sprachkurs",
     "Course"
   ]

@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Course/Verb notes.md",
+                "file": "Course/A2/1.md",
                 "mode": "source",
                 "source": false
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Course/Verb notes.md",
+                "file": "Course/A2/1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Course/Verb notes.md",
+                "file": "Course/A2/1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Course/Verb notes.md"
+                "file": "Course/A2/1.md"
               }
             }
           },
@@ -219,8 +219,8 @@
   },
   "active": "42dbe86d6383ea05",
   "lastOpenFiles": [
-    "Course/A2/1.md",
     "Course/Verb notes.md",
+    "Course/A2/1.md",
     "A1/1. Pronunciation.md",
     "Course/A1/12. Use of Sein & haben.md",
     "Course/A2",

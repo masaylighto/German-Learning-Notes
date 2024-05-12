@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Course/A1/11.3. Perfekt.md",
+                "file": "Course/A2/3.md",
                 "mode": "source",
                 "source": false
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Course/A1/11.3. Perfekt.md",
+                "file": "Course/A2/3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Course/A1/11.3. Perfekt.md",
+                "file": "Course/A2/3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Course/A1/11.3. Perfekt.md"
+                "file": "Course/A2/3.md"
               }
             }
           },
@@ -219,6 +219,8 @@
   },
   "active": "42dbe86d6383ea05",
   "lastOpenFiles": [
+    "Course/A1/11.3. Perfekt.md",
+    "Course/A2/3.md",
     "Course/A1/10.4. Use of zu & auf ,aus ,an.md",
     "Course/Sprachkurs/6. various words.md",
     "Course/Sprachkurs/15.md",
@@ -239,7 +241,6 @@
     "Course/Verb notes.md",
     "Course/A1/12. Use of Sein & haben.md",
     "Course/A2",
-    "Course/A1/11.3. Perfekt.md",
     "Course/A1/10. Few Words of directions.md",
     "Course/A1/8.2. Way to suggest,.md",
     "Course/A1/11.4. Past tense.md",
@@ -257,7 +258,6 @@
     "Course/A1/Old  Image/IMG-20240425-WA0011.jpg",
     "Course/A1/Old  Image",
     "Course/A1/New folder",
-    "B1/9. Noun-Declination.md",
     "Course/A1",
     "Course/Sprachkurs",
     "Course"

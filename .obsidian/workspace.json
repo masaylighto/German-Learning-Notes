@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Course/A2/3.md",
+                "file": "Course/A2/3.3.md",
                 "mode": "source",
                 "source": false
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Course/A2/3.md",
+                "file": "Course/A2/3.3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Course/A2/3.md",
+                "file": "Course/A2/3.3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Course/A2/3.md"
+                "file": "Course/A2/3.3.md"
               }
             }
           },
@@ -220,7 +220,7 @@
   "active": "42dbe86d6383ea05",
   "lastOpenFiles": [
     "Course/A1/11.3. Perfekt.md",
-    "Course/A2/3.md",
+    "Course/A2/3.3.md",
     "Course/A1/10.4. Use of zu & auf ,aus ,an.md",
     "Course/Sprachkurs/6. various words.md",
     "Course/Sprachkurs/15.md",

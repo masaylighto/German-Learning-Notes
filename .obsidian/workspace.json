@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Course/A2/4.md",
+                "file": "Course/A2/5.md",
                 "mode": "source",
                 "source": false
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Course/A2/4.md",
+                "file": "Course/A2/5.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Course/A2/4.md",
+                "file": "Course/A2/5.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Course/A2/4.md"
+                "file": "Course/A2/5.md"
               }
             }
           },
@@ -219,13 +219,14 @@
   },
   "active": "42dbe86d6383ea05",
   "lastOpenFiles": [
-    "Pasted image 20240515171207.png",
+    "Course/A2/4.md",
+    "Course/A2/5.md",
+    "Essen 7.png",
     "Essen 6.png",
     "Essen 5.png",
     "Essen 4.png",
     "Essen 3.png",
     "Essen 2.png",
-    "Course/A2/4.md",
     "Essen 2.png",
     "Pasted image 20240515170736.png",
     "Essen 1.png",
@@ -255,7 +256,6 @@
     "Course/A1/12. Use of Sein & haben.md",
     "Course/A2",
     "Course/A1/Old  Image/WhatsApp Image 2024-04-25 at 10.24.04_f1bdeecd.jpg",
-    "Course/A1/Old  Image/WhatsApp Image 2024-04-25 at 10.23.54_5adbd7d3.jpg",
     "Course/A1/Old  Image",
     "Course/A1/New folder",
     "Course/A1",

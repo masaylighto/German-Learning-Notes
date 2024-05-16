@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Course/A2/6.md",
+                "file": "Course/A2/6.3.md",
                 "mode": "source",
                 "source": false
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Course/A2/6.md",
+                "file": "Course/A2/6.3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Course/A2/6.md",
+                "file": "Course/A2/6.3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Course/A2/6.md"
+                "file": "Course/A2/6.3.md"
               }
             }
           },
@@ -219,8 +219,9 @@
   },
   "active": "42dbe86d6383ea05",
   "lastOpenFiles": [
-    "Day times.png",
     "Course/A2/6.md",
+    "Course/A2/6.3.md",
+    "Day times.png",
     "Day Times.png",
     "Essen 2.png",
     "Pasted image 20240515170736.png",

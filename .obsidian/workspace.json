@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Course/A2/6.4.md",
+                "file": "Course/A2/4.md",
                 "mode": "source",
                 "source": false
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Course/A2/6.4.md",
+                "file": "Course/A2/4.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Course/A2/6.4.md",
+                "file": "Course/A2/4.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Course/A2/6.4.md"
+                "file": "Course/A2/4.md"
               }
             }
           },
@@ -219,11 +219,11 @@
   },
   "active": "42dbe86d6383ea05",
   "lastOpenFiles": [
-    "Course/A2/6.3.md",
-    "Course/A2/6.4.md",
-    "Course/A2/6.md",
     "Course/A2/5.md",
     "Course/A2/4.md",
+    "Course/A2/6.4.md",
+    "Course/A2/6.3.md",
+    "Course/A2/6.md",
     "Course/A2/4.3.md",
     "Course/A2/3.5.md",
     "Course/A2/3.3.md",

@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Course/Sprachkurs/15.md",
+                "file": "A1/1. Pronunciation.md",
                 "mode": "source",
                 "source": false
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Course/Sprachkurs/15.md",
+                "file": "A1/1. Pronunciation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Course/Sprachkurs/15.md",
+                "file": "A1/1. Pronunciation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Course/Sprachkurs/15.md"
+                "file": "A1/1. Pronunciation.md"
               }
             }
           },
@@ -219,6 +219,7 @@
   },
   "active": "42dbe86d6383ea05",
   "lastOpenFiles": [
+    "Course/Sprachkurs/15.md",
     "Course/Sprachkurs/13.md",
     "Course/Sprachkurs/10..md",
     "Course/Sprachkurs/8. Negation.md",
@@ -252,7 +253,6 @@
     "A2/3. Subjunctive And Conjunctional adverb.md",
     "Course/A2/3.5.md",
     "Course/A2/3.3.md",
-    "Course/Sprachkurs/15.md",
     "Course/A2/2..md",
     "A2/7. Subjunctive 2.md",
     "Course/A2",

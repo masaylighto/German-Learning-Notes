@@ -17,8 +17,10 @@
 2. In den with plural words       => In den Ferien, In den Sommerferien
 3. Im with masculine and natural words (Jahresmonate- Jahreszeiten - Jahr 2019) => Im 2018 gehe ich zur Universität
 #### 3. Zwischen (Dative) (Wann) Between
-1. between two time, date, etc.. => Wir treffen uns zwischen 11 Uhr und 12 Uhr
+1. Between two time, date, etc.. => Wir treffen uns zwischen 11 Uhr und 12 Uhr
 #### 4. Über (Accusative) (Wie lange) Over
+1. Used the same way over used with time in English => Ich habe über eine Stunde auf dich gewartet
+#### 5. Bei+m
 
 ## Local Prepositions
 

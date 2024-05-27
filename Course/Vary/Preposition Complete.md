@@ -16,6 +16,8 @@
 1. In der with the feminin time => In der Nacht
 2. In den with plural words       => In den Ferien, In den Sommerferien
 3. Im with masculine and natural words (Jahresmonate- Jahreszeiten - Jahr 2019) => Im 2018 gehe ich zur Universität
+   Im Mai, Im Jahr 2019, Im Sommer...
+4. In einem Monat, Stunde, Woch, Jahr.. within a month..
 #### 3. Zwischen (Dative) (Wann) Between
 1. Between two time, date, etc.. => Wir treffen uns zwischen 11 Uhr und 12 Uhr
 #### 4. Über (Accusative) (Wie lange) Over
@@ -25,7 +27,10 @@
 
 ## Local Prepositions
 
-1. In )
+#### 1. In (Two way preposition) into
+1. Dative (wo) => ich bin im irak
+2. Accusative (wohin, woher) => ich gehe in ...
+ 
 
 
 

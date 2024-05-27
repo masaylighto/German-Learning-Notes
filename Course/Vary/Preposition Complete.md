@@ -20,7 +20,8 @@
 1. Between two time, date, etc.. => Wir treffen uns zwischen 11 Uhr und 12 Uhr
 #### 4. Über (Accusative) (Wie lange) Over
 1. Used the same way over used with time in English => Ich habe über eine Stunde auf dich gewartet
-#### 5. Bei+m
+#### 5. Bei+m (Dative) (Wann) During
+1. using like during in English => Beim Abendessen sehe ich fern
 
 ## Local Prepositions
 

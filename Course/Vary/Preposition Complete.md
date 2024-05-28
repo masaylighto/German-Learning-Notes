@@ -47,7 +47,8 @@
 1. used with Daten and  Tageszeiten( with article).
 2. Ich habe vom 6. Februar bis zum 8. März
 #### 14. seit(dative) (Seit wann, Wie lange) since
-1. 
+1. Used in present tense
+2. Seit einem Jahr gehe ich ins Fitness Studio
 ## Local Prepositions
 
 #### 1. In (Two way preposition) into
@@ -55,7 +56,7 @@
  2. Accusative (wohin, woher) => ich gehe ins Kino
  3. Used with place and lands(countries) that have an article 
 #### 2. Ab (dative) from
-1. Der Zug fährt ab Hauptbahnhof.»
+1. Der Zug fährt ab Hauptbahnhof.
 
 
 

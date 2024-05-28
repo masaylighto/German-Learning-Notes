@@ -66,6 +66,7 @@
 5. At a specific place (+dat)=>Wir stehen direkt **am** Bahnsteig.
 6.  Working or studying at an institution (+dat) => Ich studiere an der Universität.
 7. _an_ can be used to refer to a specific quantity of something that is available. 
+8. Referring to a specific characteristic of something =>**An** einem Apfel ist ein Wurm
 #### 4. Auf (Two way preposition) on or onto 
 1. _an_ contrasts with _auf_. While _auf_ refers to proximity to horizontal surfaces, _an_ refers to proximity to vertical surfaces.
 2.  At or going to a building of an institution, social gathering, an event or public service place => Gehe ich auf die Bank
@@ -80,7 +81,7 @@
 1. Bei meinem Onkel
 2. with Arbeitsplatz => Ich arbeite bei Samsung 
 #### 6. Von
-1. when use with house we add zu => von zu Haus.
+1. when used with house we add zu => von zu Haus.
 
 
 

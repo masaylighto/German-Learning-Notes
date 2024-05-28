@@ -88,6 +88,7 @@
 7. To an exact amount (+acc) =>Das stimmt **auf** den Cent genau!
 8. In a specific language => Er hat **auf** Englisch geantwortet.
 9. Following something in time => Auf Regen folgt Sonnenschein.
+10. with being born => Im Jahr 2000 bin ich auf diese Welt gekommen
 #### 5. Bei (dative) at
 1. Bei meinem Onkel
 2. with Arbeitsplatz => Ich arbeite bei Samsung 

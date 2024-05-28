@@ -58,11 +58,20 @@
  3. Used with place and lands(countries) that have an article 
 #### 2. Ab (dative) from
 1. Der Zug fährt ab Hauptbahnhof.
-#### An (Two way preposition) meaning vary
+#### 3. An (Two way preposition) meaning vary
 1. when used with location it express On a vertical surface or object, or very close to it
 2. when used with waterbodies express that you are in their beaches (because the beach is what beside the water body)
 3. _an_ contrasts with _auf_. While _auf_ refers to proximity to horizontal surfaces, _an_ refers to proximity to vertical surfaces.
-
+#### 4. Auf (Two way preposition) on or onto 
+1. _an_ contrasts with _auf_. While _auf_ refers to proximity to horizontal surfaces, _an_ refers to proximity to vertical surfaces.
+2.  At or going to a building of an institution, social gathering, an event or public service place => Gehe ich auf die Bank
+3. Movement up onto something from below =>Wir klettern **auf** den Berg.
+4. In a temporary condition =>Ich bin **auf** dem Weg nach Hause.  Ich bin **auf** der Suche nach einer Antwort.
+5. Moving towards something When used in the construction _auf etwas (acc) zu_ =>auf einen Berg zugehen
+6. At a distance of (+acc) =>Die Explosion war **auf** einige Kilometer zu hören.
+7. To an exact amount (+acc) =>Das stimmt **auf** den Cent genau!
+8. In a specific language => Er hat **auf** Englisch geantwortet.
+9. Following something in time => Auf Regen folgt Sonnenschein.
 
 
 

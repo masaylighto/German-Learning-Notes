@@ -75,6 +75,8 @@
 #### 5. Bei (dative) at
 1. Bei meinem Onkel
 2. with Arbeitsplatz => Ich arbeite bei Samsung 
+#### 6. Von
+1. 
 
 
 
@@ -86,3 +88,5 @@
 4. if you use time as number then you don't put their articles 
 ## Local Notes
 1. asking with wo express dative
+2.  using aus with country like aus dem Irak mean that you are Iraqi citizen and come from Iraq
+3. using von with country mean you came from their but you are not the citizen of that country 

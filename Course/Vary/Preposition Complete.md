@@ -53,6 +53,9 @@
 #### 14. seit(dative) (Seit wann, Wie lange) since
 1. Used in present tense
 2. Seit einem Jahr gehe ich ins Fitness Studio
+#### 15. _bis zu_(dative), meaning up to, up until 
+1. Die Wartezeit beträgt **bis zu** einer Stunde.
+
 ## Local Prepositions with their other quirks
 
 #### 1. In (Two way preposition) into
@@ -90,8 +93,19 @@
 2. with Arbeitsplatz => Ich arbeite bei Samsung 
 #### 6. Von (dative) from 
 1. when used with house we add zu => von zu Haus.
-2. from somehwer
+2. from some somewhere
 #### 7. Zu (Dative) To 
+1. Specifying the goal of motion => Wir fahren **zum See**.
+2. To indicate that something is required in order to do something => **Zum Malen** brauchst du einen Pinsel und Farbe.
+3. Used with a verb or gerund to indicate that something has to be done => Das **zu** reparierende Auto befindet sich zurzeit in der Werkstatt.
+4. _zu_ can indicate that something goes with or complements something else, usually when referring to food.=> Ich nehme Zucker **zum Kaffee**.
+5. Specifying the goal or purpose of something => Sie nimmt Tabletten **zur Beruhigung**.
+6.  Specifying the number of people =>Wir sind **zu** dritt.
+7. **Specifying the result** of a transformation, change in status, or change in state of a material =>Das Wasser ist **zu Eis** geworden.
+8.  Used to indicate to what extent something applies =>Das ist nur **zum Teil** richtig.
+9.  Used to indicate the name or location of a building => |   |
+|---|
+|der Dom **zu** Köln|
 
 
 

@@ -12,6 +12,9 @@
 	2. in der Woche
 	3. in der Freizeit
 	4. in den Ferien
+5. Specifying the start point of something in the phrase _von … an_ (+dat) from...onward =>**Von** **Montag** **an** bin ich im Urlaub. : I’m on holiday from Monday onwards
+6.  Specifying the arrival time of a scheduled departure=>  ICE von Berlin nach München.  Ab: 13:46. An: 19:03.
+
 #### 2. In (Dative in time) (Wann) within 
 1. In der with the feminin time => In der Nacht
 2. In den with plural words       => In den Ferien, In den Sommerferien
@@ -50,7 +53,7 @@
 #### 14. seit(dative) (Seit wann, Wie lange) since
 1. Used in present tense
 2. Seit einem Jahr gehe ich ins Fitness Studio
-## Local Prepositions
+## Local Prepositions with their other quirks
 
 #### 1. In (Two way preposition) into
  1. Dative (wo) => ich bin im Irak
@@ -67,6 +70,11 @@
 6.  Working or studying at an institution (+dat) => Ich studiere an der Universität.
 7. _an_ can be used to refer to a specific quantity of something that is available. 
 8. Referring to a specific characteristic of something =>**An** einem Apfel ist ein Wurm
+9.  Showing the extent of something in the phrase _bis an_ (+acc) => Das Wasser ging mir bis **an** die Knie.
+10.  Emphasizing the spatial proximity of two things, or the large number of similar things => Wir wohnen Tür **an** Tür.
+11.  Approximately (+acc) =>Es waren **an** die 200 Leute da.
+12. _an_ can be used in the phrase _an sich_ to emphasize that you are referring to something on its own. This is comparable to “in and of itself” in English. => 	Geld **an** sich macht mich nicht glücklich, aber es hilft doch.: Money per se does not make me happy, but it does help.
+13. Served with a side dish or sauce =>Rinderfilet mit Rosmarinkartoffeln und Zuckerschoten **an** einer Trüffelsoße
 #### 4. Auf (Two way preposition) on or onto 
 1. _an_ contrasts with _auf_. While _auf_ refers to proximity to horizontal surfaces, _an_ refers to proximity to vertical surfaces.
 2.  At or going to a building of an institution, social gathering, an event or public service place => Gehe ich auf die Bank
@@ -80,8 +88,11 @@
 #### 5. Bei (dative) at
 1. Bei meinem Onkel
 2. with Arbeitsplatz => Ich arbeite bei Samsung 
-#### 6. Von
+#### 6. Von (dative) from 
 1. when used with house we add zu => von zu Haus.
+2. from somehwer
+#### 7. Zu (Dative) To 
+
 
 
 

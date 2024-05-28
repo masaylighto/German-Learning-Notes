@@ -28,6 +28,7 @@
 1. Für ein Jahr bleibe ich in Deutschland.
 #### 7. vor (dative) (Wann) before 
 1. Vor 10 Jahren ging ich ins Kino
+2. used in past tenses perfect or simple
 ##### 8. nach (dative) (Wann) after
 1. Nach 10 stunden treffen uns
 ##### 9. bis (accusative) (Bis wann) till

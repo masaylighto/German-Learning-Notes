@@ -15,7 +15,7 @@
 5. Specifying the start point of something in the phrase _von … an_ (+dat) from...onward =>**Von** **Montag** **an** bin ich im Urlaub. : I’m on holiday from Monday onwards
 6.  Specifying the arrival time of a scheduled departure=>  ICE von Berlin nach München.  Ab: 13:46. An: 19:03.
 
-#### 2. In (Dative) (Wann) within 
+#### 2. In (Dative) (Wann) in, within 
 1. In der with the feminin time => In der Nacht
 2. In den with plural words       => In den Ferien, In den Sommerferien
 3. Im with masculine and natural words (Jahresmonate- Jahreszeiten - Jahr 2019) => Im Jahr 2018 gehe ich zur Universität

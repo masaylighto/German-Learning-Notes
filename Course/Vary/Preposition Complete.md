@@ -32,12 +32,12 @@
 #### 7. vor (dative) (Wann) before 
 1. Vor 10 Jahren ging ich ins Kino
 2. used in past tenses perfect or simple
-##### 8. nach (dative) (Wann) after
+#### 8. nach (dative) (Wann) after
 1. Nach 10 stunden treffen uns
-##### 9. bis (accusative) (Bis wann) till
+#### 9. bis (accusative) (Bis wann) till
 1. Er bleibt bis  Morgen.: he stayed till morning 
 2.  Er bleibt bis 10 Uhr.: he stayed till 10 o'clock 
-##### 9. ab (dative) (from (at Minimum)) from
+#### 9. ab (dative) (from (at Minimum)) from
 1. Ab 1.Mai habe ich einen neuen Job.
 2. ab = Minimum => Ab 18 darf man ein Auto fahren.
 #### 10. um (accusative): (Wann , Um wie viel Uhr?) on (punctual) 

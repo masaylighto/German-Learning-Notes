@@ -40,6 +40,14 @@
 1. Wir gehen um drei Uhr ins Kino. : we go on 3 o'clock to the cinema (punctual) 
 #### 11. gegen (dative): (Wann, Um wie viel Uhr?)  around (unpunctual) 
 1. Wir gehen gegen drei Uhr ins Kino. : we go around 3 o'clock to the cinema (unpunctual) 
+#### 12 von...bis(dative) (Wann) from...till
+1. used with Tage, Monate und Tageszeiten( without article), Jahreszeiten, Uhrzeiten
+2. Ich arbeite von Montag bis Mittwoch
+#### 13 vom...bis zum(dative) (Wann) from...till
+1. used with Daten and  Tageszeiten( with article).
+2. Ich habe vom 6. Februar bis zum 8. März
+#### 14. seit(dative) (Seit wann, Wie lange) since
+1. 
 ## Local Prepositions
 
 #### 1. In (Two way preposition) into

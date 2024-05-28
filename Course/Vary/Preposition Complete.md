@@ -58,6 +58,10 @@
  3. Used with place and lands(countries) that have an article 
 #### 2. Ab (dative) from
 1. Der Zug fährt ab Hauptbahnhof.
+#### An (Two way preposition) meaning vary
+1. when used with location it express On a vertical surface or object, or very close to it
+2. when used with waterbodies express that you are in their beaches (because the beach is what beside the water body)
+3. _an_ contrasts with _auf_. While _auf_ refers to proximity to horizontal surfaces, _an_ refers to proximity to vertical surfaces.
 
 
 
@@ -69,3 +73,4 @@
 3. Two way preposition take dative when express times.
 4. if you use time as number then you don't put their articles 
 ## Local Notes
+1. asking with wo express dative

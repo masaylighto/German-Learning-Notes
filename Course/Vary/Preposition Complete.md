@@ -24,20 +24,30 @@
 1. Used the same way over used with time in English => Ich habe über eine Stunde auf dich gewartet
 #### 5. Bei+m (Dative) (Wann) During
 1. using like during in English => Beim Abendessen sehe ich fern
-#### 6. Für  (accusative)  for
+#### 6. Für  (accusative)(Für wie lange)  for
 1. Für ein Jahr bleibe ich in Deutschland.
-#### 7. vor (dative) before 
+#### 7. vor (dative) (Wann) before 
 1. Vor 10 Jahren ging ich ins Kino
-##### 8. nach (dative) after
+##### 8. nach (dative) (Wann) after
 1. Nach 10 stunden treffen uns
-##### 9. bis (accusative) till
-Er bleibt bis zum Morgen.: he stayed till morning 
+##### 9. bis (accusative) (Bis wann) till
+1. Er bleibt bis  Morgen.: he stayed till morning 
+2.  Er bleibt bis 10 Uhr.: he stayed till 10 o'clock 
+##### 9. ab (dative) (from (at Minimum)) from
+1. Ab 1.Mai habe ich einen neuen Job.
+2. ab = Minimum => Ab 18 darf man ein Auto fahren.
+#### 10. um (accusative): (Wann , Um wie viel Uhr?) on (punctual) 
+1. Wir gehen um drei Uhr ins Kino. : we go on 3 o'clock to the cinema (punctual) 
+#### 11. gegen (dative): (Wann, Um wie viel Uhr?)  around (unpunctual) 
+1. Wir gehen gegen drei Uhr ins Kino. : we go around 3 o'clock to the cinema (unpunctual) 
 ## Local Prepositions
 
 #### 1. In (Two way preposition) into
  1. Dative (wo) => ich bin im Irak
  2. Accusative (wohin, woher) => ich gehe ins Kino
  3. Used with place and lands(countries) that have an article 
+#### 2. Ab (dative) from
+1. Der Zug fährt ab Hauptbahnhof.»
 
 
 

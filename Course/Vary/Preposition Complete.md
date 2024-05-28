@@ -15,7 +15,7 @@
 #### 2. In (Dative in time) (Wann) within 
 1. In der with the feminin time => In der Nacht
 2. In den with plural words       => In den Ferien, In den Sommerferien
-3. Im with masculine and natural words (Jahresmonate- Jahreszeiten - Jahr 2019) => Im 2018 gehe ich zur Universität
+3. Im with masculine and natural words (Jahresmonate- Jahreszeiten - Jahr 2019) => Im Jahr 2018 gehe ich zur Universität
    Im Mai, Im Jahr 2019, Im Sommer...
 4. In einem Monat, Stunde, Woche, Jahr.. within a month..
 #### 3. Zwischen (Dative) (Wann) Between
@@ -39,7 +39,7 @@
 2. ab = Minimum => Ab 18 darf man ein Auto fahren.
 #### 10. um (accusative): (Wann , Um wie viel Uhr?) on (punctual) 
 1. Wir gehen um drei Uhr ins Kino. : we go on 3 o'clock to the cinema (punctual) 
-#### 11. gegen (dative): (Wann, Um wie viel Uhr?)  around (unpunctual) 
+#### 11. gegen (accusative): (Wann, Um wie viel Uhr?)  around (unpunctual) 
 1. Wir gehen gegen drei Uhr ins Kino. : we go around 3 o'clock to the cinema (unpunctual) 
 #### 12 von...bis(dative) (Wann) from...till
 1. used with Tage, Monate und Tageszeiten( without article), Jahreszeiten, Uhrzeiten
@@ -62,6 +62,10 @@
 1. when used with location it express On a vertical surface or object, or very close to it
 2. when used with waterbodies express that you are in their beaches (because the beach is what beside the water body)
 3. _an_ contrasts with _auf_. While _auf_ refers to proximity to horizontal surfaces, _an_ refers to proximity to vertical surfaces.
+4.  Onto or towards a vertical surface or object (+acc) =>Ich hänge das Bild **an** die Wand.
+5. At a specific place (+dat)=>Wir stehen direkt **am** Bahnsteig.
+6.  Working or studying at an institution (+dat) => Ich studiere an der Universität.
+7. _an_ can be used to refer to a specific quantity of something that is available. 
 #### 4. Auf (Two way preposition) on or onto 
 1. _an_ contrasts with _auf_. While _auf_ refers to proximity to horizontal surfaces, _an_ refers to proximity to vertical surfaces.
 2.  At or going to a building of an institution, social gathering, an event or public service place => Gehe ich auf die Bank
@@ -76,7 +80,8 @@
 1. Bei meinem Onkel
 2. with Arbeitsplatz => Ich arbeite bei Samsung 
 #### 6. Von
-1. 
+1. when use with house we add zu => von zu Haus.
+
 
 
 

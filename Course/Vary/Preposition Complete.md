@@ -68,14 +68,13 @@
 1. when used with location it express On a vertical surface or object, or very close to it
 2. when used with waterbodies express that you are in their beaches (because the beach is what beside the water body)
 3. _an_ contrasts with _auf_. While _auf_ refers to proximity to horizontal surfaces, _an_ refers to proximity to vertical surfaces.
-4.  Onto or towards a vertical surface or object (+acc) =>Ich hänge das Bild **an** die Wand.
-5. At a specific place (+dat)=>Wir stehen direkt **am** Bahnsteig.
-6.  Working or studying at an institution (+dat) => Ich studiere an der Universität.
-9.  Showing the extent of something in the phrase _bis an_ (+acc) => Das Wasser ging mir bis **an** die Knie.
-10.  Emphasizing the spatial proximity of two things, or the large number of similar things => Wir wohnen Tür **an** Tür.
-11.  Approximately (+acc) =>Es waren **an** die 200 Leute da.
-12. _an_ can be used in the phrase _an sich_ to emphasize that you are referring to something on its own. This is comparable to “in and of itself” in English. => 	Geld **an** sich macht mich nicht glücklich, aber es hilft doch.: Money per se does not make me happy, but it does help.
-13. Served with a side dish or sauce =>Rinderfilet mit Rosmarinkartoffeln und Zuckerschoten **an** einer Trüffelsoße
+4. Onto or towards a vertical surface or object (+acc) =>Ich hänge das Bild **an** die Wand.
+5.  At a specific place (+dat)=>Wir stehen direkt **am** Bahnsteig.
+6.  Studying at an institution (+dat) => Ich studiere an der Universität.
+7.  Showing the extent of something in the phrase _bis an_ (+acc) => Das Wasser ging mir bis **an** die Knie.
+8. Emphasizing the spatial proximity of two things, or the large number of similar things => Wir wohnen Tür **an** Tür.
+9. _an_ can be used in the phrase _an sich_ to emphasize that you are referring to something on its own. This is comparable to “in and of itself” in English. => 	Geld **an** sich macht mich nicht glücklich, aber es hilft doch.: Money per se does not make me happy, but it does help.
+10. Served with a side dish or sauce =>Rinderfilet mit Rosmarinkartoffeln und Zuckerschoten **an** einer Trüffelsoße
 #### 4. Auf (Two way preposition) on or onto 
 1. _an_ contrasts with _auf_. While _auf_ refers to proximity to horizontal surfaces, _an_ refers to proximity to vertical surfaces.
 2.  At or going to a building of an institution, social gathering, an event or public service place => Gehe ich auf die Bank

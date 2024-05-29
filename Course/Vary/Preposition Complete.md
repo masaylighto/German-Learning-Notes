@@ -115,8 +115,8 @@
 1. Seasons and year can be used with out preposition on one conditions that you wrote them as numbers
 2. When you express time without a preposition then it will default to the accusative case
 3. Two way preposition take dative when express times.
-4. if you use time as number then you don't put their articles 
+4. If you use time as number then you don't put their articles 
 ## Local Notes
-1. asking with wo express dative
-2.  using aus with country like aus dem Irak mean that you are Iraqi citizen and come from Iraq
-3. using von with country mean you came from their but you are not the citizen of that country 
+1. Asking with wo express dative
+2. Using aus with country like aus dem Irak mean that you are Iraqi citizen and come from Iraq
+3. Using von with country mean you came from their but you are not the citizen of that country 

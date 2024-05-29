@@ -71,8 +71,6 @@
 4.  Onto or towards a vertical surface or object (+acc) =>Ich hänge das Bild **an** die Wand.
 5. At a specific place (+dat)=>Wir stehen direkt **am** Bahnsteig.
 6.  Working or studying at an institution (+dat) => Ich studiere an der Universität.
-7. _an_ can be used to refer to a specific quantity of something that is available. 
-8. Referring to a specific characteristic of something =>**An** einem Apfel ist ein Wurm
 9.  Showing the extent of something in the phrase _bis an_ (+acc) => Das Wasser ging mir bis **an** die Knie.
 10.  Emphasizing the spatial proximity of two things, or the large number of similar things => Wir wohnen Tür **an** Tür.
 11.  Approximately (+acc) =>Es waren **an** die 200 Leute da.
@@ -94,7 +92,7 @@
 2. with Arbeitsplatz => Ich arbeite bei Samsung 
 #### 6. Von (dative) from 
 1. when used with house we add zu => von zu Haus.
-2. from some somewhere
+2. from  somewhere
 #### 7. Zu (Dative) To 
 1. Specifying the goal of motion => Wir fahren **zum See**.
 2. To indicate that something is required in order to do something => **Zum Malen** brauchst du einen Pinsel und Farbe.

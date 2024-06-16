@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "B1/19. Passive in presence with model verbs.md",
+                "file": "B1/19. Passive.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,14 +61,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Course/A2/8 sentence linkers.md",
+                "file": "Course/A2/8.3.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b1793c65ff2048c2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "A1/12. Adjective Declension.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "acae2a0d9fcb1716",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "B1/19. Passive.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -126,7 +150,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 240.5
+    "width": 240.5,
+    "collapsed": true
   },
   "right": {
     "id": "ca6822dfed3d2d20",
@@ -142,7 +167,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Course/A2/8 sentence linkers.md",
+                "file": "B1/19. Passive.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +184,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Course/A2/8 sentence linkers.md",
+                "file": "B1/19. Passive.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +207,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Course/A2/8 sentence linkers.md"
+                "file": "B1/19. Passive.md"
               }
             }
           },
@@ -203,7 +228,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -217,12 +243,23 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "42dbe86d6383ea05",
+  "active": "acae2a0d9fcb1716",
   "lastOpenFiles": [
-    "Course/A2/7..md",
-    "Course/A2/8 sentence linkers.md",
-    "Course/A2/7.2 Subjunctive 2.md",
+    "Passive VOice 2.png",
+    "Passive Voice.png",
+    "Course/A1/11.3. Perfekt.md",
+    "B1/21. Passive in past tense.md",
+    "B1/20. passive in the past perfect.md",
+    "Course/A1/12. Use of Sein & haben.md",
+    "Course/A1/11.4. Past tense.md",
     "A1/12. Adjective Declension.md",
+    "Course/Sprachkurs/13.md",
+    "Course/Sprachkurs/10..md",
+    "Course/A2/7.2 Subjunctive 2.md",
+    "Body Parts.png",
+    "Course/A2/8 sentence linkers.md",
+    "Course/A2/8.3.md",
+    "Course/A2/7..md",
     "A2/2. Comparative & Superlative.md",
     "Subjunctive 2 Example.png",
     "Course/Vary/Preposition Complete.md",
@@ -238,15 +275,6 @@
     "A2/5. Dative.md",
     "Course/A2/5.md",
     "Course/A2/3.5.md",
-    "Course/A2/3.3.md",
-    "Course/A2/1.md",
-    "Course/A1/12.2.md",
-    "A1/1. Pronunciation.md",
-    "Course/A2/4.md",
-    "Course/A2/4.3.md",
-    "Course/A2/2..md",
-    "Course/Sprachkurs/15.md",
-    "Course/Sprachkurs/13.md",
     "Course/A1/Old  Image/IMG-20240425-WA0044.jpg",
     "Course/A1/Old  Image/IMG-20240425-WA0045.jpg",
     "Course/A1/Old  Image/IMG-20240425-WA0024.jpg",
@@ -254,8 +282,6 @@
     "Course/A1/Old  Image/IMG-20240425-WA0022.jpg",
     "Course/A1/Old  Image/IMG-20240425-WA0021.jpg",
     "Course/A1/Old  Image/IMG-20240425-WA0020.jpg",
-    "Course/A1/Old  Image/IMG-20240425-WA0019.jpg",
-    "Course/A1/Old  Image/IMG-20240425-WA0018.jpg",
     "Course/A2",
     "Course/A1/Old  Image",
     "Course/A1/New folder",

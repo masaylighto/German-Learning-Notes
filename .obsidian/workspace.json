@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "A2/4. Accusative.md",
+                "file": "A2/8. Conditional Clause.md",
                 "mode": "source",
                 "source": false
               }
@@ -166,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "A2/4. Accusative.md",
+                "file": "A2/8. Conditional Clause.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "A2/4. Accusative.md",
+                "file": "A2/8. Conditional Clause.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -206,7 +206,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "A2/4. Accusative.md"
+                "file": "A2/8. Conditional Clause.md"
               }
             }
           },
@@ -244,6 +244,7 @@
   },
   "active": "acae2a0d9fcb1716",
   "lastOpenFiles": [
+    "A2/4. Accusative.md",
     "A1/2. Verb Conjugation.md",
     "A1/17. The word gender.md",
     "A1/12. Adjective Declension.md",
@@ -272,7 +273,6 @@
     "Course/Vary",
     "A2/18. Time Adverb.md",
     "Course/A2/6.md",
-    "A2/4. Accusative.md",
     "A2/3. Subjunctive And Conjunctional adverb.md",
     "A2/5. Dative.md",
     "Course/A1/Old  Image/IMG-20240425-WA0044.jpg",

@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Course/A2/4.md",
+                "file": "A2/8. Conditional Clause.md",
                 "mode": "source",
                 "source": false
               }
@@ -166,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Course/A2/4.md",
+                "file": "A2/8. Conditional Clause.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Course/A2/4.md",
+                "file": "A2/8. Conditional Clause.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -206,7 +206,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Course/A2/4.md"
+                "file": "A2/8. Conditional Clause.md"
               }
             }
           },
@@ -244,6 +244,7 @@
   },
   "active": "acae2a0d9fcb1716",
   "lastOpenFiles": [
+    "Course/A2/4.md",
     "food.png",
     "Course/A2/5.md",
     "Course/A2/6.md",
@@ -280,7 +281,6 @@
     "Course/A1/Old  Image/IMG-20240425-WA0024.jpg",
     "Course/A1/Old  Image/IMG-20240425-WA0023.jpg",
     "Course/A1/Old  Image/IMG-20240425-WA0022.jpg",
-    "Course/A1/Old  Image/IMG-20240425-WA0021.jpg",
     "Course/A2",
     "Course/A1/Old  Image",
     "Course/A1/New folder",

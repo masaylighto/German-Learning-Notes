@@ -24,4 +24,6 @@ Some of these pronouns, such as _jemand or niemand_, can be declined, which mea
 ![[Einig Forms.png]]
 11. jed every: take the end of the article : take singular name only
 		![[Jed Forms.png]]
-12.  mench
+12.  manch: some: take same article as the end of article just like the aboves
+13. mehrer: many only plural take the end of plural
+		![[mehrer forms.png]]

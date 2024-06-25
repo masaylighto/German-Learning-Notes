@@ -12,8 +12,16 @@ Some of these pronouns, such as _jemand or niemand_, can be declined, which mea
 	4. Das klare Wetter erleichtert, einem die Beobachtung der Sterne.
 5. jemand: anybody:  change form by taking the end of der in cases example jemandem in dative
 6. niemand: nobody (negate jemand): change form just like jemand
-7. alles all: change form
+7. alle: all: change form
 	1. ![[all from.png]]
 	2. Ich spreche mit allen Menschen.
 	3. Ich bin mit allem zufrieden.
-	4. focus on the two sentence above both dative both plural but one is allem and other is allen, becasue  first followed the case of the name after it Menschen wich is plual name while the other have no name and act as a singular masculine 
+	4. focus on the two sentence above both dative both plural but one is allem and other is allen, because  first followed the case of the name after it Menschen wich is plural name while the other have no name and act as a singular masculine 
+8. alles: everything: do not change form
+9. welch: which: used only nominative and accusative as infinitive pronoun
+![[welch forms.png]]
+10.  einig: some (ig prononced just like english)
+![[Einig Forms.png]]
+11. jed every: take the end of the article : take singular name only
+		![[Jed Forms.png]]
+12.  mench

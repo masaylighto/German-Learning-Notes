@@ -24,6 +24,10 @@ Some of these pronouns, such as _jemand or niemand_, can be declined, which mea
 ![[Einig Forms.png]]
 11. jed every: take the end of the article : take singular name only
 		![[Jed Forms.png]]
-12.  manch: some: take same article as the end of article just like the aboves
+12. manch: some: take same article as the end of article just like the above
 13. mehrer: many only plural take the end of plural
 		![[mehrer forms.png]]
+14. wenige: a few: take same article as the end of article just like the few above
+15. viele: many: viele for plural, viel for singular\
+16. ein: just like man, and it decline exactly like the Indefinitive article.
+17. kein: just like the normal kein 

@@ -97,7 +97,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Course/Sprachkurs/15.md",
+                "file": "Course/A2/21 Demonstrative pronouns.md",
                 "mode": "source",
                 "source": false
               }
@@ -178,7 +178,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Course/Sprachkurs/15.md",
+                "file": "Course/A2/21 Demonstrative pronouns.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -195,7 +195,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Course/Sprachkurs/15.md",
+                "file": "Course/A2/21 Demonstrative pronouns.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -218,7 +218,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Course/Sprachkurs/15.md"
+                "file": "Course/A2/21 Demonstrative pronouns.md"
               }
             }
           },
@@ -256,6 +256,9 @@
   },
   "active": "87dc268eca22f2d3",
   "lastOpenFiles": [
+    "Demonstrative pronouns.png",
+    "Course/Sprachkurs/15.md",
+    "Course/A2/21 Demonstrative pronouns.md",
     "Course/Sprachkurs/13.md",
     "Course/Sprachkurs/10..md",
     "Course/Sprachkurs/8. Negation.md",
@@ -279,9 +282,6 @@
     "Course/A2/6.md",
     "Course/A2/5.md",
     "Course/A2/4.md",
-    "Course/A2/3.5.md",
-    "Course/A2/3.3.md",
-    "Course/A2/1.md",
     "mehrer forms.png",
     "Jed Forms.png",
     "Einig Forms.png",

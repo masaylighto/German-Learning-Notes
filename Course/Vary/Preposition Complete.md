@@ -92,6 +92,11 @@
 #### 6. Von (dative) from 
 1. when used with house we add zu => von zu Haus.
 2. from  somewhere
+3. from arbeit or schule
+4. from ort or gebäude
+5. from people: ahmed kommt von ayman
+6. from hause
+7. as place adverb :Sie gehen zuerst von rechts und dann nach links.
 #### 7. Zu (Dative) To 
 1. Specifying the goal of motion => Wir fahren **zum See**.
 2. To indicate that something is required in order to do something => **Zum Malen** brauchst du einen Pinsel und Farbe.
@@ -102,6 +107,9 @@
 7. **Specifying the result** of a transformation, change in status, or change in state of a material =>Das Wasser ist **zu Eis** geworden.
 8.  Used to indicate to what extent something applies =>Das ist nur **zum Teil** richtig.
 9.  Used to indicate the name or location of a building => der Dom **zu** Köln
+10. with place that have doors
+11. with foot: ich gehe zu fuß
+12. to people: zum artz
 
 
 

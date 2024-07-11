@@ -102,9 +102,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "81d304c4b49fcbf1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Course/B1/7. Connectors.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -178,7 +190,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "A2/8. Conditional Clause.md",
+                "file": "Course/B1/7. Connectors.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -195,7 +207,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "A2/8. Conditional Clause.md",
+                "file": "Course/B1/7. Connectors.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -218,7 +230,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "A2/8. Conditional Clause.md"
+                "file": "Course/B1/7. Connectors.md"
               }
             }
           },
@@ -254,8 +266,13 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "87dc268eca22f2d3",
+  "active": "81d304c4b49fcbf1",
   "lastOpenFiles": [
+    "Untitled.md",
+    "Course/B1/7. Connectors.md",
+    "Course/B1",
+    "Untitled",
+    "A2/8. Conditional Clause.md",
     "B1/15. Conjugative 2 Regrets.md",
     "B1/19. Passive.md",
     "Course/A2/17 Die Indefinitpronomen.md",
@@ -280,9 +297,6 @@
     "Course/A2/6.3 Temporal Prepositions.md",
     "Demonstrative pronouns.png",
     "Course/Sprachkurs/15.md",
-    "Course/Sprachkurs/13.md",
-    "Course/Sprachkurs/10..md",
-    "Course/Sprachkurs/8. Negation.md",
     "mehrer forms.png",
     "Jed Forms.png",
     "Einig Forms.png",

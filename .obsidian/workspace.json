@@ -109,7 +109,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Course/B1/7. Connectors.md",
+                "file": "B1/19. Passive.md",
                 "mode": "source",
                 "source": false
               }
@@ -190,7 +190,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Course/B1/7. Connectors.md",
+                "file": "B1/19. Passive.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -207,7 +207,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Course/B1/7. Connectors.md",
+                "file": "B1/19. Passive.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -230,7 +230,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Course/B1/7. Connectors.md"
+                "file": "B1/19. Passive.md"
               }
             }
           },
@@ -268,8 +268,8 @@
   },
   "active": "81d304c4b49fcbf1",
   "lastOpenFiles": [
-    "Untitled.md",
     "Course/B1/7. Connectors.md",
+    "Untitled.md",
     "Course/B1",
     "Untitled",
     "A2/8. Conditional Clause.md",

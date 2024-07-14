@@ -121,7 +121,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "9..md",
+                "file": "Course/Sprachkurs/13.md",
                 "mode": "source",
                 "source": false
               }
@@ -202,7 +202,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "9..md",
+                "file": "Course/Sprachkurs/13.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -219,7 +219,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "9..md",
+                "file": "Course/Sprachkurs/13.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -242,7 +242,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "9..md"
+                "file": "Course/Sprachkurs/13.md"
               }
             }
           },
@@ -280,34 +280,37 @@
   },
   "active": "2149cc9dfa2f6b72",
   "lastOpenFiles": [
-    "A1/12. Adjective Declension.md",
-    "9..md",
-    "Course/A1/12. Use of Sein & haben.md",
-    "Course/A1/12.2.md",
-    "Course/A1/11.4. Past tense.md",
-    "Course/A1/11.3. Perfekt.md",
-    "Course/A1/10.4. Use of zu & auf ,aus ,an.md",
-    "B1/8. Prepositions of place.md",
-    "B1/7. Past Participle as adjective.md",
-    "B1/6. Present Participle as Adjective.md",
-    "A1/10. Past Tense(Praktikum) vs Present perfect(Perfekt).md",
-    "A2/8. Conditional Clause.md",
-    "A2/14. Simple Past.md",
-    "B1/19. Passive.md",
+    "Course/Sprachkurs/10..md",
+    "Course/Sprachkurs/8. Negation.md",
+    "Course/Sprachkurs/6. various words.md",
     "Course/B1/7. Connectors.md",
-    "Untitled.md",
+    "B1/8. Prepositions of place.md",
+    "B1/5. Word building.md",
+    "B1/4. Genitive Preposition.md",
+    "B1/3. Modal particles.md",
+    "B1/14. indem-sodas.md",
+    "B1/17. Final Secondary Sentence.md",
+    "B1/19. Passive.md",
+    "B1/18 preposition with relative station.md",
+    "Course/A1/Old  Image/IMG-20240425-WA0008.jpg",
+    "Course/A1/Old  Image/IMG-20240425-WA0006.jpg",
+    "Course/A1/Old  Image/IMG-20240425-WA0004.jpg",
+    "B1/16. relative pronouns.md",
+    "Course/A2/7..md",
+    "Course/A2/6.4.md",
+    "Course/A2/7.2 Subjunctive 2.md",
+    "Course/A2/17 Die Indefinitpronomen.md",
+    "Course/A2/12.2 how to strength the adjective. & use of wenn and als.md",
+    "B1/2. Sentence Connector.md",
+    "B1/1. als ob.md",
+    "A2/3. Subjunctive And Conjunctional adverb.md",
+    "A1/10. Past Tense(Praktikum) vs Present perfect(Perfekt).md",
+    "A1/13. Introducing yourself.md",
+    "A1/12. Adjective Declension.md",
+    "A1/11. Preposition.md",
+    "A2/17. Word Formation.md",
     "Course/B1",
     "Untitled",
-    "B1/15. Conjugative 2 Regrets.md",
-    "Course/A2/17 Die Indefinitpronomen.md",
-    "Course/A2/21 Demonstrative pronouns.md",
-    "A1/1. Pronunciation.md",
-    "Course/A2/12.2 how to strength the adjective. & use of wenn and als.md",
-    "Course/A2/8.3.md",
-    "Course/A2/8 sentence linkers.md",
-    "Course/A2/7.2 Subjunctive 2.md",
-    "Course/Verb notes.md",
-    "Course/A2/1.md",
     "Demonstrative pronouns.png",
     "mehrer forms.png",
     "Jed Forms.png",
@@ -315,9 +318,6 @@
     "Pasted image 20240625172501.png",
     "welch forms.png",
     "all from.png",
-    "worter.png",
-    "food.png",
-    "Passive VOice 2.png",
     "Course/Vary",
     "Course/A2",
     "Course/A1/Old  Image",

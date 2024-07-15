@@ -1,1 +1,0 @@
-![[Adjective as name.png]]

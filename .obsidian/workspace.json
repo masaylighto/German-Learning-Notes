@@ -10,13 +10,15 @@
           {
             "id": "a5811722183387e7",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
                 "file": "B1/20. All Tense.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "pinned": true
             }
           }
         ]
@@ -171,10 +173,10 @@
   },
   "active": "a5811722183387e7",
   "lastOpenFiles": [
+    "A1/10. Past Tense(Praktikum) vs Present perfect(Perfekt).md",
+    "B1/20. All Tense.md",
     "B1/19. Passive.md",
     "B1/18 preposition with relative station.md",
-    "B1/20. All Tense.md",
-    "A1/10. Past Tense(Praktikum) vs Present perfect(Perfekt).md",
     "A1/8. Separable und inseparable verbs.md",
     "B1/6. Present Participle as Adjective.md",
     "B1/12. Past tense.md",

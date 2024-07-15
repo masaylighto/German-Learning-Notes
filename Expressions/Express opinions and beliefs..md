@@ -1,4 +1,3 @@
-to express opinions and beliefs.
 Meiner Meinung nach + Verb (ist)
 Meiner Ansicht nach + Verb (ist)
 ich bin der Überzeugung, dass ..

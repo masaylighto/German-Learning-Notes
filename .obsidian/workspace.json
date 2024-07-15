@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1.Complete Grammers/2. Tenses.md",
+                "file": "1. Grammars/7. Tenses.md",
                 "mode": "source",
                 "source": false
               },
@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1.Complete Grammers/2. Tenses.md",
+                "file": "1. Grammars/7. Tenses.md",
                 "mode": "source",
                 "source": false
               }
@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1.Complete Grammers/11. Conjunctions & Secondary Sentences.md",
+                "file": "1. Grammars/11. Conjunctions & Secondary Sentences.md",
                 "mode": "source",
                 "source": false
               }
@@ -52,7 +52,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1.Complete Grammers/15. Noun & Verb & Adjective Creation.md",
+                "file": "1. Grammars/15. on.md",
                 "mode": "source",
                 "source": false
               },
@@ -65,7 +65,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1.Complete Grammers/7. Cases.md",
+                "file": "1. Grammars/10. Comparative & Superlative.md",
                 "mode": "source",
                 "source": false
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1.Complete Grammers/7. Cases.md",
+                "file": "1. Grammars/10. Comparative & Superlative.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1.Complete Grammers/7. Cases.md",
+                "file": "1. Grammars/10. Comparative & Superlative.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1.Complete Grammers/7. Cases.md"
+                "file": "1. Grammars/10. Comparative & Superlative.md"
               }
             }
           },
@@ -224,37 +224,38 @@
   },
   "active": "630aad66d4c742fb",
   "lastOpenFiles": [
-    "Course/A2/21 Demonstrative pronouns.md",
-    "Important Words/Various words.md",
-    "Course/A2/18. wetter + wo compound +da compound.md",
-    "1.Complete Grammers/18 Die Indefinitpronomen.md",
-    "Important Words/Body Parts.md",
-    "Course/A2/15.2.md",
-    "Course/A2/12.2 how to strength the adjective. & use of wenn and als.md",
-    "Course/A2/8 sentence linkers.md",
-    "Course/A2/7.2 Subjunctive 2.md",
-    "Course/A2/7..md",
-    "Course/A2/6.4.md",
-    "Important Words/Seasons & Times & Months.md",
-    "Course/A2/6.3 Temporal Prepositions.md",
-    "Course/A2/6.md",
-    "Important Words/Months.md",
-    "Course/A2/5.md",
-    "Important Words/The days of the weeks.md",
-    "Important Words/Use of zu & auf ,aus ,an.md",
-    "Important Words/Numbers.md",
-    "Important Words/15. mögen, lieben, gern haben,lieb haben, verliebt sein.md",
-    "Important Words/Foods & Their Quantifiers.md",
-    "Expressions/Various.md",
-    "Expressions/Express opinions and beliefs..md",
-    "1.Complete Grammers/7. Cases.md",
-    "Course/A2/1.md",
-    "Expressions/Congratulation.md",
-    "Expressions",
-    "Important Words",
+    "1. Grammars/8. Preposition.md",
+    "1. Grammars/7. Tenses.md",
+    "1. Grammars/6. Words Rules.md",
+    "1. Grammars/10. Comparative & Superlative.md",
+    "1. Grammars/2. Sentence Formation.md",
+    "1. Grammars/8..md",
+    "1. Grammars/5. Adjective Declension.md",
+    "1. Grammars/4. Negation.md",
+    "1. Grammars/15. on.md",
+    "1. Grammars/18 Die Indefinitpronomen.md",
+    "1. Grammars/21. Conditional Clause.md",
+    "1. Grammars/20. Passive.md",
+    "1. Grammars/3. Cases.md",
+    "1. Grammars/1. Pronunciation.md",
+    "3. Expressions/Way to suggest,.md",
+    "3. Expressions/Make assumptions.md",
+    "Untitled.md",
+    "4. Exams Rules",
+    "4. Exams Rules/Describe an image.md",
+    "3. Expressions/Asking for colo.md",
+    "2. Important Words/Various words.md",
+    "Course/Sprachkurs/6. various words.md",
+    "2. Important Words/Similar Words.md",
+    "Course/B1/7. Connectors.md",
+    "Course/Verb notes.md",
+    "1. Grammars/11. Conjunctions & Secondary Sentences.md",
+    "Course/9..md",
+    "3. Expressions",
+    "2. Important Words",
     "Images/Possessive-Pronouns.jpg",
     "Images/Present Tense Word orders.png",
-    "1.Complete Grammers",
+    "1. Grammars",
     "Untitled.canvas",
     "Images/all from.png",
     "Images/Body Parts.png",
@@ -274,7 +275,6 @@
     "Course/Vary",
     "Course/A2",
     "Course/A1/Old  Image",
-    "Course/A1/New folder",
-    "Course/A1"
+    "Course/A1/New folder"
   ]
 }

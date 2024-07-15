@@ -1,1 +1,0 @@
-![[Demonstrative pronouns.png]]

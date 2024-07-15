@@ -37,9 +37,11 @@
             "id": "b54bf1208938c976",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Images/welch forms.png"
+                "file": "1. Grammars/16. Indefinite Pronoun.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -118,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Images/welch forms.png",
+                "file": "1. Grammars/16. Indefinite Pronoun.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Images/welch forms.png",
+                "file": "1. Grammars/16. Indefinite Pronoun.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Images/welch forms.png"
+                "file": "1. Grammars/16. Indefinite Pronoun.md"
               }
             }
           },
@@ -196,8 +198,11 @@
   },
   "active": "b54bf1208938c976",
   "lastOpenFiles": [
-    "Images/worter.png",
+    "1. Grammars/14. Da & Wo Compound.md",
+    "3. Expressions/Introducing yourself.md",
+    "2. Important Words/Few Words of directions.md",
     "Images/welch forms.png",
+    "Images/worter.png",
     "Images/Seasons.png",
     "Images/The 3 Most Common Irregular Simple Past Verbs.png",
     "Images/Subjunctive 2 Example.png",
@@ -206,14 +211,11 @@
     "Images/Possessive-Pronouns.jpg",
     "Images/Possessive Pronouns.png",
     "Images/Pasted image 20240625172501.png",
-    "Images/Past Tense verb conjugation.png",
     "1. Grammars/10. Conjunctions & Secondary Sentences.md",
     "1. Grammars/18. Passive.md",
     "1. Grammars/17. Conditional Clause.md",
-    "1. Grammars/16. Die Indefinitpronomen.md",
+    "1. Grammars/16. Indefinite Pronoun.md",
     "1. Grammars/15. Reading Numbers.md",
-    "2. Important Words/16. Few Words of directions.md",
-    "1. Grammars/14. Da & Wo Compound.md",
     "1. Grammars/15. on.md",
     "1. Grammars/11. Time Adverb.md",
     "1. Grammars/12. Subjunctive 2.md",

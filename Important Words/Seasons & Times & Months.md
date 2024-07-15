@@ -1,4 +1,3 @@
-
 Die Ermäßigung => discount (only for school stuff)
 
 Der Star => the famous actor and actress : the word is for both male and female and both use der article here

@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Grammars/2. Sentence Formation.md",
+                "file": "1. Grammars/3. Cases.md",
                 "mode": "source",
                 "source": false
               }
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Grammars/2. Sentence Formation.md",
+                "file": "1. Grammars/3. Cases.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Grammars/2. Sentence Formation.md",
+                "file": "1. Grammars/3. Cases.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Grammars/2. Sentence Formation.md"
+                "file": "1. Grammars/3. Cases.md"
               }
             }
           },
@@ -198,6 +198,8 @@
   },
   "active": "b54bf1208938c976",
   "lastOpenFiles": [
+    "Accusative Verbs.png",
+    "1. Grammars/2. Sentence Formation.md",
     "1. Grammars/3. Cases.md",
     "1. Grammars/16. Indefinite Pronoun.md",
     "1. Grammars/14. Da & Wo Compound.md",
@@ -224,7 +226,6 @@
     "1. Grammars/8. Tenses.md",
     "1. Grammars/7. Words Rules.md",
     "1. Grammars/6. Comparative & Superlative.md",
-    "1. Grammars/2. Sentence Formation.md",
     "1. Grammars/8..md",
     "1. Grammars/5. Adjective Declension.md",
     "1. Grammars/4. Negation.md",
@@ -234,7 +235,6 @@
     "Untitled.md",
     "4. Exams Rules",
     "4. Exams Rules/Describe an image.md",
-    "3. Expressions/Asking for colo.md",
     "3. Expressions",
     "2. Important Words",
     "1. Grammars",

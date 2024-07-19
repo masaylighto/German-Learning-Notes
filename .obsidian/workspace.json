@@ -44,9 +44,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "8715b5bf61e4c581",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Images/Accusative Verbs.png"
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -120,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Grammars/3. Cases.md",
+                "file": "Images/Accusative Verbs.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Grammars/3. Cases.md",
+                "file": "Images/Accusative Verbs.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Grammars/3. Cases.md"
+                "file": "Images/Accusative Verbs.png"
               }
             }
           },
@@ -196,8 +206,9 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "8fac14f9b6a2caed",
+  "active": "8715b5bf61e4c581",
   "lastOpenFiles": [
+    "1. Grammars/3. Cases.md",
     "1. Grammars/8. Tenses.md",
     "1. Grammars/10. Conjunctions & Secondary Sentences.md",
     "1. Grammars/18. Passive.md",
@@ -207,7 +218,6 @@
     "1. Grammars/14. Da & Wo Compound.md",
     "1. Grammars/12. Subjunctive 2.md",
     "1. Grammars/11. Time Adverb.md",
-    "1. Grammars/3. Cases.md",
     "Images/Accusative Verbs.png",
     "Images/Two way verbs.png",
     "Images/Verb with two objects.png",

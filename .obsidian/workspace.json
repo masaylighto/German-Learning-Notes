@@ -32,9 +32,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "8fac14f9b6a2caed",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1. Grammars/3. Cases.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -108,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Grammars/10. Conjunctions & Secondary Sentences.md",
+                "file": "1. Grammars/3. Cases.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Grammars/10. Conjunctions & Secondary Sentences.md",
+                "file": "1. Grammars/3. Cases.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Grammars/10. Conjunctions & Secondary Sentences.md"
+                "file": "1. Grammars/3. Cases.md"
               }
             }
           },
@@ -184,7 +196,7 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "af0a54f09c2232d8",
+  "active": "8fac14f9b6a2caed",
   "lastOpenFiles": [
     "1. Grammars/8. Tenses.md",
     "1. Grammars/10. Conjunctions & Secondary Sentences.md",

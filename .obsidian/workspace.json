@@ -49,9 +49,11 @@
             "id": "8715b5bf61e4c581",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Images/Accusative Verbs.png"
+                "file": "2. Important Words/Lassen.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -130,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Images/Accusative Verbs.png",
+                "file": "2. Important Words/Lassen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Images/Accusative Verbs.png",
+                "file": "2. Important Words/Lassen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Images/Accusative Verbs.png"
+                "file": "2. Important Words/Lassen.md"
               }
             }
           },
@@ -208,6 +210,10 @@
   },
   "active": "8715b5bf61e4c581",
   "lastOpenFiles": [
+    "Lassen Conjugations.png",
+    "Untitled.md",
+    "2. Important Words/Lassen.md",
+    "Images/Accusative Verbs.png",
     "1. Grammars/3. Cases.md",
     "1. Grammars/8. Tenses.md",
     "1. Grammars/10. Conjunctions & Secondary Sentences.md",
@@ -218,7 +224,6 @@
     "1. Grammars/14. Da & Wo Compound.md",
     "1. Grammars/12. Subjunctive 2.md",
     "1. Grammars/11. Time Adverb.md",
-    "Images/Accusative Verbs.png",
     "Images/Two way verbs.png",
     "Images/Verb with two objects.png",
     "1. Grammars/7. Words Rules.md",
@@ -241,9 +246,7 @@
     "1. Grammars/1. Pronunciation.md",
     "3. Expressions/Way to suggest,.md",
     "3. Expressions/Make assumptions.md",
-    "Untitled.md",
     "4. Exams Rules",
-    "4. Exams Rules/Describe an image.md",
     "3. Expressions",
     "2. Important Words",
     "1. Grammars",

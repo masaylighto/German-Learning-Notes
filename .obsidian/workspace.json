@@ -51,7 +51,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Grammars/10. Conjunctions & Secondary Sentences.md",
+                "file": "1. Grammars/7. Words Rules.md",
                 "mode": "source",
                 "source": false
               }
@@ -132,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Grammars/10. Conjunctions & Secondary Sentences.md",
+                "file": "1. Grammars/7. Words Rules.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Grammars/10. Conjunctions & Secondary Sentences.md",
+                "file": "1. Grammars/7. Words Rules.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Grammars/10. Conjunctions & Secondary Sentences.md"
+                "file": "1. Grammars/7. Words Rules.md"
               }
             }
           },
@@ -210,8 +210,8 @@
   },
   "active": "8715b5bf61e4c581",
   "lastOpenFiles": [
-    "1. Grammars/14. Da & Wo Compound.md",
     "1. Grammars/10. Conjunctions & Secondary Sentences.md",
+    "1. Grammars/14. Da & Wo Compound.md",
     "2. Important Words/Lassen.md",
     "Lassen Conjugations.png",
     "Untitled.md",

@@ -16,3 +16,6 @@
 7. creating passive=> Need the word können in the original sentence Example> Der Arbeiter kann die Maschine nicht reparieren => Die Maschine Lásst sich nicht reparieren
 8.  im stitch lassen => Du hast mich im stitch gelassen => you have let me down.
 9. to express forgetfulness with lassen + liegen. ich lasse mein Handy zu hause liegen=> i have forgot my phone at hause. without Liegen it become let the phone in the houes(intentionally)
+10. sich scheiden lassen: divorce => Er ließ sich von seiner Frau scheiden=> he divorced his wife.
+11. Wasser lassen => pee
+12. 

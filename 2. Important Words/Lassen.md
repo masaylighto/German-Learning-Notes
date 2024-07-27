@@ -18,4 +18,12 @@
 9. to express forgetfulness with lassen + liegen. ich lasse mein Handy zu hause liegen=> i have forgot my phone at hause. without Liegen it become let the phone in the houes(intentionally)
 10. sich scheiden lassen: divorce => Er ließ sich von seiner Frau scheiden=> he divorced his wife.
 11. Wasser lassen => pee
-12. 
+12. To force someone doing somthing haben+ lassen => Mein Vater hat mich das ganze Wochenende im Garten arbeiten lassen.
+13. request permission =>  Lassen Sie mich Ihnen helfen?
+14. adivce something => Lass uns essen.  | Schnell lass uns beeilen.
+15. doing something for  someone => Der Koffer ist zu schwer für dich, lass mich ihn tragen.
+16. use with zu auf ein aus same aus machen but with adding the meaning of let => let the door open  Kannst du die Tür zulassen?\
+
+
+
+![[Lassen seperated verbs.png]]13. erlassen

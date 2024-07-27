@@ -61,9 +61,11 @@
             "id": "0e6c8e8a95d904d2",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Images/Accusative Verbs.png"
+                "file": "1. Grammars/18. Passive.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -142,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Images/Accusative Verbs.png",
+                "file": "1. Grammars/18. Passive.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Images/Accusative Verbs.png",
+                "file": "1. Grammars/18. Passive.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +184,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Images/Accusative Verbs.png"
+                "file": "1. Grammars/18. Passive.md"
               }
             }
           },
@@ -220,6 +222,7 @@
   },
   "active": "0e6c8e8a95d904d2",
   "lastOpenFiles": [
+    "Images/Accusative Verbs.png",
     "1. Grammars/3. Cases.md",
     "2. Important Words/Lassen.md",
     "Images/Lassen seperated verbs.png",
@@ -231,7 +234,6 @@
     "1. Grammars/10. Conjunctions & Secondary Sentences.md",
     "1. Grammars/14. Da & Wo Compound.md",
     "Untitled.md",
-    "Images/Accusative Verbs.png",
     "1. Grammars/18. Passive.md",
     "1. Grammars/17. Conditional Clause.md",
     "1. Grammars/16. Indefinite Pronoun.md",

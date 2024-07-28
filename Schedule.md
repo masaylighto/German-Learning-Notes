@@ -3,4 +3,4 @@
 2-3 practice hearing
 3-4 practice speaking
 8-9 memorizing words
-10-12 speaking with people in german
+10-12 speaking with people in German

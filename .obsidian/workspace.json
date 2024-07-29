@@ -85,9 +85,11 @@
             "id": "8831fdd112987068",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Images/Accusative Verbs.png"
+                "file": "1. Grammars/10. Conjunctions & Secondary Sentences.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -166,7 +168,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Images/Accusative Verbs.png",
+                "file": "1. Grammars/10. Conjunctions & Secondary Sentences.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +185,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Images/Accusative Verbs.png",
+                "file": "1. Grammars/10. Conjunctions & Secondary Sentences.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -206,7 +208,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Images/Accusative Verbs.png"
+                "file": "1. Grammars/10. Conjunctions & Secondary Sentences.md"
               }
             }
           },
@@ -244,6 +246,7 @@
   },
   "active": "8831fdd112987068",
   "lastOpenFiles": [
+    "Images/Accusative Verbs.png",
     "1. Grammars/3. Cases.md",
     "1. Grammars/9. Preposition.md",
     "1. Grammars/16. Indefinite Pronoun.md",
@@ -251,7 +254,6 @@
     "1. Grammars/8. Tenses.md",
     "Schedule.md",
     "1. Grammars/18. Passive.md",
-    "Images/Accusative Verbs.png",
     "2. Important Words/Lassen.md",
     "Images/Lassen seperated verbs.png",
     "Images/Lassen Conjugations.png",

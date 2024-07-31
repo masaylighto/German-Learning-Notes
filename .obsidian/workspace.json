@@ -111,7 +111,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Grammars/3. Cases.md",
+                "file": "1. Grammars/7. Words Rules.md",
                 "mode": "source",
                 "source": false
               }
@@ -192,7 +192,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Grammars/3. Cases.md",
+                "file": "1. Grammars/7. Words Rules.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -209,7 +209,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Grammars/3. Cases.md",
+                "file": "1. Grammars/7. Words Rules.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -232,7 +232,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Grammars/3. Cases.md"
+                "file": "1. Grammars/7. Words Rules.md"
               }
             }
           },
@@ -270,11 +270,12 @@
   },
   "active": "c16df4b1e24511d2",
   "lastOpenFiles": [
+    "1. Grammars/2. Sentence Formation.md",
+    "1. Grammars/5. Adjective Declension.md",
+    "1. Grammars/3. Cases.md",
     "1. Grammars/9. Preposition.md",
     "1. Grammars/18. Passive.md",
     "Images/Accusative Verbs.png",
-    "1. Grammars/3. Cases.md",
-    "1. Grammars/2. Sentence Formation.md",
     "1. Grammars/1. Pronunciation.md",
     "1. Grammars/8. Tenses.md",
     "1. Grammars/10. Conjunctions & Secondary Sentences.md",
@@ -292,7 +293,6 @@
     "Images/Two way verbs.png",
     "Images/Verb with two objects.png",
     "1. Grammars/6. Comparative & Superlative.md",
-    "1. Grammars/5. Adjective Declension.md",
     "1. Grammars/4. Negation.md",
     "Images/Dative Verb.png",
     "3. Expressions/Introducing yourself.md",

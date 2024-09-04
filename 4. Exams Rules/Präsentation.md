@@ -7,3 +7,6 @@ Presentation Parts
 
 #### Part 2 
 ![[Presentation Part 2.png]]
+#### Part 3
+
+![[Presentation Part 3.png]]

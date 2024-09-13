@@ -1,17 +1,6 @@
 
 1. Ich bevorzuge Sonntag, aber wenn das für dich nicht funktioniert, könnten wir vielleicht einen Kompromiss finden, indem wir ein anderes Datum wählen, auf das wir uns beide einigen.
 
-2. **Was tun wir, wenn unerwartete Schwierigkeiten auftreten?**  
-(What do we do if unexpected difficulties arise?)
-
-
-
-
-
-
-
-
-
 ## Word that can be used
 
 
@@ -34,7 +23,29 @@
 15. **Brezel** – Pretzel
 16. **Maultaschen** – German dumplings, often filled with meat or vegetables
 17. **Flammkuchen** – Tarte flambée (thin pizza-like dish)
-
+#### ingredients 
+1. **Zucker** – Sugar
+2. **Salz** – Salt
+3. **Pfeffer** – Pepper
+4. **Mehl** – Flour
+5. **Milch** – Milk
+6. **Eier** – Eggs
+7. **Butter** – Butter
+8. **Olivenöl** – Olive oil
+9. **Essig** – Vinegar
+10. **Zwiebel** – Onion
+11. **Knoblauch** – Garlic
+12. **Kartoffeln** – Potatoes
+13. **Tomaten** – Tomatoes
+14. **Gurken** – Cucumbers
+15. **Paprika** – Bell pepper
+16. **Karotten** – Carrots
+17. **Käse** – Cheese
+18. **Schinken** – Ham
+19. **Fleisch** – Meat
+20. **Fisch** – Fish
+21. **Reis** – Rice
+22. **
 #### Trinken
 1. **Wasser** – Water
 2. **Mineralwasser** – Mineral water
@@ -182,3 +193,6 @@ Was sollen wir tragen? Ich werde einen blauen Anzug mit einer roten Krawatte tra
 #### Wer übernimmt was
 
 Wir sollten die Aufgaben unter uns aufteilen, jeder sollte eine Verantwortung übernehmen. Ich werde ......., könntest du......
+
+
+

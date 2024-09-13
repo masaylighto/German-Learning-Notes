@@ -44,7 +44,6 @@
 19. **Fleisch** – Meat
 20. **Fisch** – Fish
 21. **Reis** – Rice
-22. **
 #### Trinken
 1. **Wasser** – Water
 2. **Mineralwasser** – Mineral water

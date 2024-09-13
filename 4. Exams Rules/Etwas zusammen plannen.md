@@ -12,16 +12,12 @@
 5. **Bratwurst** – Grilled sausage
 6. **Kebap/Döner** – Doner kebab
 7. **Spaghetti** – Spaghetti
-8. **Currywurst** – Sausage with curry ketchup
-9. **Gulasch** – Goulash (meat stew)
+9. **Currywurst** – Sausage with curry ketchup
 10. **Lasagne** – Lasagna
 11. **Falafel** – Falafel
-12. **Sauerkraut** – Sauerkraut (fermented cabbage)
-13. **Rouladen** – Rolled beef with filling
-14. **Eintopf** – Stew (one-pot meal)
-15. **Brezel** – Pretzel
-16. **Maultaschen** – German dumplings, often filled with meat or vegetables
-17. **Flammkuchen** – Tarte flambée (thin pizza-like dish)
+12. **Brezel** – Pretzel
+13. **Maultaschen** – German dumplings, often filled with meat or vegetables
+14. **Flammkuchen** – Tarte flambée (thin pizza-like dish)
 #### ingredients 
 1. **Zucker** – Sugar
 2. **Salz** – Salt
@@ -31,93 +27,65 @@
 6. **Eier** – Eggs
 7. **Butter** – Butter
 8. **Olivenöl** – Olive oil
-9. **Essig** – Vinegar
-10. **Zwiebel** – Onion
-11. **Knoblauch** – Garlic
-12. **Kartoffeln** – Potatoes
-13. **Tomaten** – Tomatoes
-14. **Gurken** – Cucumbers
-15. **Paprika** – Bell pepper
-16. **Karotten** – Carrots
-17. **Käse** – Cheese
-18. **Schinken** – Ham
-19. **Fleisch** – Meat
-20. **Fisch** – Fish
-21. **Reis** – Rice
+9. **Zwiebel** – Onion
+10. **Kartoffeln** – Potatoes
+11. **Tomaten** – Tomatoes
+12. **Käse** – Cheese
+13. **Schinken** – Ham
+14. **Fleisch** – Meat
+15. **Fisch** – Fish
+16. **Reis** – Rice
 #### Trinken
-1. **Wasser** – Water
-2. **Mineralwasser** – Mineral water
-3. **Sprudelwasser** – Sparkling water
-4. **Saft** – Juice (e.g., **Orangensaft** – Orange juice, **Apfelsaft** – Apple juice)
-5. **Kaffee** – Coffee
-6. **Tee** – Tea
-7. **Milch** – Milk
-8. **Bier** – Beer
-9. **Wein** – Wine (e.g., **Rotwein** – Red wine, **Weißwein** – White wine)
-10. **Sekt** – Sparkling wine
-11. **Limonade** – Lemonade (also used for soft drinks like Sprite)
-12. **Cola** – Cola
-13. **Eistee** – Iced tea
-14. **Kakao** – Hot chocolate
-15. **Glühwein** – Mulled wine (popular in winter)
+1. **Saft** – Juice (e.g., **Orangensaft** – Orange juice, **Apfelsaft** – Apple juice)
+2. **Kaffee** – Coffee
+3. **Tee** – Tea
+4. **Milch** – Milk
+5. **Bier** – Beer
+6. **Wein** – Wine (e.g., **Rotwein** – Red wine, **Weißwein** – White wine)
+7. **Sekt** – Sparkling wine
+8. **Limonade** – Lemonade (also used for soft drinks like Sprite)
+9. **Cola** – Cola
+10. **Eistee** – Iced tea
+11. **Kakao** – Hot chocolate
 #### Hobbies and gifts
 
-| Hobby              | Gift Idea 1                            | Gift Idea 2                                         |
-| ------------------ | -------------------------------------- | --------------------------------------------------- |
-| **Lesen**          | Buch (Book)                            | E-Reader                                            |
-| **Schreiben**      | Notizbuch (Notebook)                   | Schreibset (Writing set)                            |
-| **Sport treiben**  | Sportgeräte (Sports equipment)         | Sportbekleidung (Sportswear)                        |
-| **Musik hören**    | Kopfhörer (Headphones)                 | Musik-CDs (Music CDs)                               |
-| **Kochen**         | Kochbuch (Cookbook)                    | Gewürze (Spices)                                    |
-| **Gärtnern**       | Pflanzenset (Plant set)                | Gartenwerkzeug (Gardening tools)                    |
-| **Fotografieren**  | Kamera (Camera)                        | Fotobuch (Photo book)                               |
-| **Reisen**         | Reiseführer (Travel guide)             | Reisezubehör (Travel accessories)                   |
-| **Handwerken**     | Handwerkzeuge (Crafting tools)         | Bastelset (Crafting kit)                            |
-| **Schwimmen**      | Schwimmbrille (Swimming goggles)       | Wassersportausrüstung (Water sports equipment)      |
-| **Wandern**        | Wanderkarte (Hiking map)               | Outdoor-Ausrüstung (Outdoor equipment)              |
-| **Angeln**         | Angelzubehör (Fishing gear)            | Angelausrüstung (Fishing equipment)                 |
-| **Spielen**        | Brettspiele (Board games)              | Videospiele (Video games)                           |
-| **Filme schauen**  | Film-DVDs/Blu-rays                     | Streaming-Abonnement (Streaming subscription)       |
-| **Nähen**          | Nähmaschine (Sewing machine)           | Stoffe und Nähzubehör (Fabrics and sewing supplies) |
-| **Töpfern**        | Töpfer-Set (Pottery kit)               | Töpferwerkzeug (Pottery tools)                      |
-| **Yoga machen**    | Yoga-Matte (Yoga mat)                  | Yoga-Blöcke (Yoga blocks)                           |
-| **Klettern**       | Kletterausrüstung (Climbing gear)      | Kletterführer (Climbing guide)                      |
-| **Reiten**         | Reitstiefel (Riding boots)             | Reitzubehör (Riding equipment)                      |
-| **Astronomie**     | Teleskop (Telescope)                   | Astronomie-Buch (Astronomy book)                    |
-| **Basteln**        | Bastelmaterialien (Crafting materials) | DIY-Kits (DIY kits)                                 |
-| **Schach spielen** | Schachbrett (Chess board)              | Schachfiguren (Chess pieces)                        |
-| **Kalligrafie**    | Kalligrafie-Stifte (Calligraphy pens)  | Kalligrafie-Papier (Calligraphy paper)              |
+| Hobby             | Gift Idea 1                                   |
+| ----------------- | --------------------------------------------- |
+| **Lesen**         | Buch (Book)                                   |
+| **Schreiben**     | Schreibset (Writing set)                      |
+| **Sport treiben** | Sportgeräte (Sports equipment)                |
+| **Musik hören**   | Kopfhörer (Headphones)                        |
+| **Kochen**        | Kochbuch (Cookbook)                           |
+| **Gärtnern**      | Gartenwerkzeug (Gardening tools)              |
+| **Fotografieren** | Kamera (Camera)                               |
+| **Reisen**        | Reiseführer (Travel guide)                    |
+| **Handwerken**    | Handwerkzeuge (Crafting tools)                |
+| **Schwimmen**     | Schwimmbrille (Swimming goggles)              |
+| **Wandern**       | Wanderkarte (Hiking map)                      |
+| **Angeln**        | Angelzubehör (Fishing gear)                   |
+| **Spielen**       | Videospiele (Video games)                     |
+| **Filme schauen** | Streaming-Abonnement (Streaming subscription) |
+| **Nähen**         | Nähmaschine (Sewing machine)                  |
+| **Töpfern**       | Töpferwerkzeug (Pottery tools)                |
+| **Yoga machen**   | Yoga-Matte (Yoga mat)                         |
+| **Klettern**      | Kletterausrüstung (Climbing gear)             |
+| **Reiten**        | Reitstiefel (Riding boots)                    |
+| **Astronomie**    | Teleskop (Telescope)                          |
+| **Kalligrafie**   | Kalligrafie-Stifte (Calligraphy pens)         |
 #### Dekoration
 
 
-2. **Wanddekoration** – Wall decoration
-3. **Tischdekoration** – Table decoration
-4. **Blumenvase** – Flower vase
-5. **Kerzenhalter** – Candle holder
-6. **Bild** – Picture
-7. **Rahmen** – Frame
-8. **Teppich** – Carpet/Rug
-9. **Vorhänge** – Curtains
-10. **Kissen** – Cushion/Pillow
-11. **Lampen** – Lamps
-12. **Sofa** – Sofa/Couch
-13. **Bilderrahmen** – Picture frame
-14. **Gardinen** – Curtains
-15. **Dekokissen** – Decorative cushions
+
+1. **Blumenvase** – Flower vase
+2. **Teppich** – Carpet
+3. **Kissen** – Pillow
+4. **Sofa** – Sofa
+5. **Bilderrahmen** – Picture frame
+
 ##### Dentence to use
 
 - **Ich plane, das Zimmer mit... zu dekorieren.**    
     - I plan to decorate the room with...
-- **Wir könnten die Wände in einer hellen Farbe streichen.**    
-    - We could paint the walls in a light color.
-- **Wie findest du die Idee, einen Teppich in... zu legen?**    
-    - What do you think of the idea of putting a carpet in...?
-- **Ich möchte einige Bilder an die Wand hängen.**    
-    - I want to hang some pictures on the wall.
-- **Für die Fenster könnten wir Vorhänge in... wählen.**    
-    - For the windows, we could choose curtains in...
-- **Ich denke, dass Blumen eine schöne Ergänzung wären.**    
-    - I think that flowers would be a nice addition.
 - **Welche Art von Möbeln bevorzugst du?**    
     - What kind of furniture do you prefer?
 
@@ -145,23 +113,14 @@
 1. **Hemd** – Shirt
 2. **Hose** – Pants/Trousers
 3. **Kleid** – Dress
-4. **Rock** – Skirt
-5. **Jacke** – Jacket
-6. **Mantel** – Coat
-7. **Pullover** – Sweater
-8. **T-Shirt** – T-shirt
-9. **Bluse** – Blouse
-10. **Schuhe** – Shoes
-11. **Stiefel** – Boots
-12. **Socken** – Socks
-13. **Krawatte** – Tie
-14. **Schal** – Scarf
-15. **Handschuhe** – Gloves
-16. **Mütze** – Hat/Cap
-17. **Weste** – Vest
-18. **Kapuzenpullover** – Hoodie
-19. **Unterwäsche** – Underwear
-20. **Badeanzug** – Swimsuit
+4. **Jacke** – Jacket
+5. **Mantel** – Coat
+6. **Pullover** – Sweater
+7. **T-Shirt** – T-shirt
+8. **Bluse** – Blouse
+9. **Schuhe** – Shoes
+10. **Socken** – Socks
+11. **Krawatte** – Tie
 
 
 

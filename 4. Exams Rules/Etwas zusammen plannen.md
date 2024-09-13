@@ -127,3 +127,34 @@
 
 4. **Vielleicht könnten wir von den Teilnehmern Geld sammeln.**
 	Maybe we could collect money from the participants.
+
+
+#### What to wear
+
+##### Words
+
+1. **Hemd** – Shirt
+2. **Hose** – Pants/Trousers
+3. **Kleid** – Dress
+4. **Rock** – Skirt
+5. **Jacke** – Jacket
+6. **Mantel** – Coat
+7. **Pullover** – Sweater
+8. **T-Shirt** – T-shirt
+9. **Bluse** – Blouse
+10. **Schuhe** – Shoes
+11. **Stiefel** – Boots
+12. **Socken** – Socks
+13. **Krawatte** – Tie
+14. **Schal** – Scarf
+15. **Handschuhe** – Gloves
+16. **Mütze** – Hat/Cap
+17. **Weste** – Vest
+18. **Kapuzenpullover** – Hoodie
+19. **Unterwäsche** – Underwear
+20. **Badeanzug** – Swimsuit
+
+
+
+##### Sentence
+Was sollen wir tragen? Ich werde einen blauen Anzug mit einer roten Krawatte tragen.

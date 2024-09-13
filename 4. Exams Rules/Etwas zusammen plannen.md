@@ -1,9 +1,8 @@
 
-1. Ich bevorzuge Sonntag, aber wenn das für dich nicht funktioniert, könnten wir vielleicht einen Kompromiss finden, indem wir ein anderes Datum wählen, auf das wir uns beide einigen.
-
-## Word that can be used
-
-
+## What can be used
+#### discuss time
+1. Ich bevorzuge Sonntag, aber wenn das für dich nicht funktioniert, könnten wir vielleicht ein anderes Datum wählen.
+   
 #### Essen
 
 1. **Pizza** – Pizza

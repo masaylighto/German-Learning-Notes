@@ -96,6 +96,7 @@
 14. **Gardinen** – Curtains
 15. **Dekokissen** – Decorative cushions
 ##### Dentence to use
+
 - **Ich plane, das Zimmer mit... zu dekorieren.**    
     - I plan to decorate the room with...
 - **Wir könnten die Wände in einer hellen Farbe streichen.**    
@@ -110,3 +111,19 @@
     - I think that flowers would be a nice addition.
 - **Welche Art von Möbeln bevorzugst du?**    
     - What kind of furniture do you prefer?
+
+
+#### Money Gathering
+
+
+1. **Aber meiner Meinung nach sollten wir Geld sammeln.**
+	But in my opinion, we should collect money.
+
+2. **Wir könnten eine Spendenaktion organisieren, zum Beispiel ein Benefizkonzert**
+	We could organize a fundraising event, such as a charity concert
+
+3. **Eine andere Möglichkeit wäre, eine Crowdfunding-Kampagne zu starten.**
+	Another possibility would be to start a crowdfunding campaign.
+
+4. **Vielleicht könnten wir von den Teilnehmern Geld sammeln.**
+	Maybe we could collect money from the participants.

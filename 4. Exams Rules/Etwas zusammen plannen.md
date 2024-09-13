@@ -158,3 +158,27 @@
 
 ##### Sentence
 Was sollen wir tragen? Ich werde einen blauen Anzug mit einer roten Krawatte tragen.
+
+
+
+#### Unterhaltungsprogramm 
+##### Sentence
+1. **We could probably hire a comedian that can entertain people.**
+   - „Wir könnten wahrscheinlich einen Komiker engagieren, der die Leute unterhält.“
+
+2. **Do you have some idea that we could implement as an entertainment program?**
+   - „Hast du eine Idee, die wir als Unterhaltungsprogramm umsetzen könnten?“
+
+3. **We could bring a photographer and take group photos to keep as a memory.**
+   - „Wir könnten einen Fotografen mitbringen und Gruppenfotos machen, um sie als Erinnerung zu behalten.“
+
+4. **We could play trivia games and puzzles.**
+   - „Wir könnten Quizspiele und Rätsel spielen.“
+
+5. **Should we organize contests and offer different prizes for them?**
+   - „Sollten wir Wettbewerbe veranstalten und verschiedene Preise dafür anbieten?“
+
+
+#### Wer übernimmt was
+
+Wir sollten die Aufgaben unter uns aufteilen, jeder sollte eine Verantwortung übernehmen. Ich werde ......., könntest du......

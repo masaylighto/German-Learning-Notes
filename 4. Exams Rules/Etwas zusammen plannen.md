@@ -1,6 +1,6 @@
 
 ## What can be used
-#### discuss time
+#### Discuss time
 1. Ich bevorzuge Sonntag, aber wenn das für dich nicht funktioniert, könnten wir vielleicht ein anderes Datum wählen.
 #### Essen
 

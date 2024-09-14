@@ -17,7 +17,7 @@
 12. **Brezel** – Pretzel
 13. **Maultaschen** – German dumplings, often filled with meat or vegetables
 14. **Flammkuchen** – Tarte flambée (thin pizza-like dish)
-#### ingredients 
+#### Ingredients 
 1. **Zucker** – Sugar
 2. **Salz** – Salt
 3. **Pfeffer** – Pepper
@@ -42,11 +42,11 @@
 5. **Bier** – Beer
 6. **Wein** – Wine (e.g., **Rotwein** – Red wine, **Weißwein** – White wine)
 7. **Sekt** – Sparkling wine
-8. **Limonade** – Lemonade (also used for soft drinks like Sprite)
+8. **Limonade** – Limonade (also used for soft drinks like Sprite)
 9. **Cola** – Cola
 10. **Eistee** – Iced tea
 11. **Kakao** – Hot chocolate
-#### Hobbies and gifts
+#### Hobbies and Gifts
 
 | Hobby             | Gift Idea 1                                   |
 | ----------------- | --------------------------------------------- |
@@ -73,8 +73,6 @@
 | **Kalligrafie**   | Kalligrafie-Stifte (Calligraphy pens)         |
 #### Dekoration
 
-
-
 1. **Blumenvase** – Flower vase
 2. **Teppich** – Carpet
 3. **Kissen** – Pillow
@@ -88,8 +86,6 @@
     - I plan to decorate the room with...
 - **Welche Art von Möbeln bevorzugst du?**    
     - What kind of furniture do you prefer?
-
-
 #### Money Gathering
 
 
@@ -104,7 +100,6 @@
 
 4. **Vielleicht könnten wir von den Teilnehmern Geld sammeln.**
 	Maybe we could collect money from the participants.
-
 
 #### What to wear
 
@@ -122,12 +117,8 @@
 10. **Socken** – Socks
 11. **Krawatte** – Tie
 
-
-
 ##### Sentence
 Was sollen wir tragen? Ich werde einen blauen Anzug mit einer roten Krawatte tragen.
-
-
 
 #### Unterhaltungsprogramm 
 ##### Sentence
@@ -150,8 +141,6 @@ Was sollen wir tragen? Ich werde einen blauen Anzug mit einer roten Krawatte tra
 #### Wer übernimmt was
 
 Wir sollten die Aufgaben unter uns aufteilen, jeder sollte eine Verantwortung übernehmen. Ich werde ......., könntest du......
-
-
 
 ### Touristen
 - **Welche Tipps haben Sie für Touristen?**

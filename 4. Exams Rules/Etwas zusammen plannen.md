@@ -81,6 +81,7 @@
 3. **Kissen** – Pillow
 4. **Sofa** – Sofa
 5. **Bilderrahmen** – Picture frame
+6. **Schreibtisch**- Disk
 
 ##### Dentence to use
 
@@ -153,3 +154,10 @@ Wir sollten die Aufgaben unter uns aufteilen, jeder sollte eine Verantwortung ü
 
 
 
+### Touristen
+- **Welche Tipps haben Sie für Touristen?**
+    
+    - „Ich würde den Touristen empfehlen, bequeme Schuhe zu tragen, da es in der Stadt viele schöne Orte gibt, die man zu Fuß erkunden kann. Außerdem sollten sie unsere lokalen Spezialitäten probieren, wie zum Beispiel das typische Brot aus der Region.“
+- **Was sollten Sie tun, wenn das Wetter schlecht wird?**
+    
+    - „Wenn das Wetter schlecht wird, könnten wir das Video in einem Museum oder in einem gemütlichen Café drehen. So können wir den Touristen auch zeigen, was sie bei schlechtem Wetter in der Stadt unternehmen können.“

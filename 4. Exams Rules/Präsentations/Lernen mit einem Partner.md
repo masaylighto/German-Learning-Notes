@@ -1,2 +1,2 @@
 
-1. Wenn ich auf b1 Prüfung vorbereitet habe, habe ich die wert von ""
+1. Als ich mich auf die B1-Prüfung vorbereitet habe, habe ich den Wert des ‚Lernens mit einem Partner‘ erkannt, weil es mir sehr geholfen hat, besonders beim Sprechen üben. Es hat meine Sprachkenntnisse verbessert, da ich mit anderen Deutschlernenden gesprochen habe. Das gilt nicht nur für das Sprachenlernen, sondern auch für verschiedene Fächer wie Mathematik und Physik, wenn man mit anderen Leuten lernt und das, was man nicht verstanden hat, diskutiert.

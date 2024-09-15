@@ -9,4 +9,7 @@ Die Situation in meinem Heimatland ist folgende: Viele Studenten lernen zusammen
 1. Lernen mit einem Partner kann helfen, den Unterricht besser zu verstehen und Hausaufgaben zu lösen.    
 2. Es hilft auch Studenten, ihre Beziehungen zueinander zu verbessern.
 **Nachteil**
-1. Manchmal werden die Studenten abgelenkt 
+1. Manchmal lassen sich die Studenten ablenken und verschwenden ihre Zeit.
+
+**Personal Opinion**
+Ich empfehle Lernenden, miteinander zu lernen. Es hat mir in der Vergangenheit sehr geholfen und wird ihnen ebenfalls nützen.

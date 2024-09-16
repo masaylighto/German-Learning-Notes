@@ -71,6 +71,8 @@
 | **Reiten**        | Reitstiefel (Riding boots)                    |
 | **Astronomie**    | Teleskop (Telescope)                          |
 | **Kalligrafie**   | Kalligrafie-Stifte (Calligraphy pens)         |
+#### Sentence
+Ich werde ihr eins im nahegelegenen Einkaufszentrum kaufen
 #### Dekoration
 
 1. **Blumenvase** – Flower vase

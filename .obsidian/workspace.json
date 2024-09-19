@@ -111,7 +111,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Grammars/10. Conjunctions & Secondary Sentences.md",
+                "file": "1. Grammars/3. Cases.md",
                 "mode": "source",
                 "source": false
               }
@@ -202,7 +202,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Grammars/10. Conjunctions & Secondary Sentences.md",
+                "file": "1. Grammars/3. Cases.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -219,7 +219,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Grammars/10. Conjunctions & Secondary Sentences.md",
+                "file": "1. Grammars/3. Cases.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -242,7 +242,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Grammars/10. Conjunctions & Secondary Sentences.md"
+                "file": "1. Grammars/3. Cases.md"
               }
             }
           },
@@ -279,6 +279,8 @@
   },
   "active": "c16df4b1e24511d2",
   "lastOpenFiles": [
+    "1. Grammars/4. Negation.md",
+    "1. Grammars/10. Conjunctions & Secondary Sentences.md",
     "4. Exams Rules/Etwas zusammen plannen.md",
     "4. Exams Rules/Präsentations/2 .Alltag mit oder ohne Fernsehen.md",
     "4. Exams Rules/Präsentations/1. Lernen mit einem Partner.md",
@@ -299,7 +301,6 @@
     "1. Grammars/5. Adjective Declension.md",
     "1. Grammars/2. Sentence Formation.md",
     "3. Expressions/E.md",
-    "1. Grammars/10. Conjunctions & Secondary Sentences.md",
     "1. Grammars/14. Da & Wo Compound.md",
     "Presentation Question.png",
     "Presentation Part 6.png",
@@ -313,7 +314,6 @@
     "2. Important Words/Few Words of directions.md",
     "2. Important Words/Body Parts.md",
     "3. Expressions/Way to suggest,.md",
-    "3. Expressions/Make assumptions.md",
     "Images/Passive Voice.png",
     "Images/Accusative Verbs.png",
     "4. Exams Rules",

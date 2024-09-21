@@ -151,3 +151,7 @@ Wir sollten die Aufgaben unter uns aufteilen, jeder sollte eine Verantwortung ü
 - **Was sollten Sie tun, wenn das Wetter schlecht wird?**
     
     - „Wenn das Wetter schlecht wird, könnten wir das Video in einem Museum oder in einem gemütlichen Café drehen. So können wir den Touristen auch zeigen, was sie bei schlechtem Wetter in der Stadt unternehmen können.“
+
+#### General
+Ich würde gern wissen, was du darüber denkst
+![[General phrases for etwas zusammen plannen.png]]![[More general statment about etwas zusammen plannen.png]]

@@ -11,11 +11,9 @@
             "id": "b37d7f7b74efb6a1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Course/Sprachkurs/8. Negation.md",
-                "mode": "source",
-                "source": false
+                "file": "Images/General phrases for etwas zusammen plannen.png"
               }
             }
           }
@@ -97,7 +95,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Course/Sprachkurs/8. Negation.md",
+            "file": "Images/General phrases for etwas zusammen plannen.png",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -114,7 +112,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Course/Sprachkurs/8. Negation.md",
+            "file": "Images/General phrases for etwas zusammen plannen.png",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -126,7 +124,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Course/Sprachkurs/8. Negation.md"
+            "file": "Images/General phrases for etwas zusammen plannen.png"
           }
         }
       }
@@ -145,6 +143,6 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "b37d7f7b74efb6a1",
+  "active": "02d9ffdc17ed3908",
   "lastOpenFiles": []
 }

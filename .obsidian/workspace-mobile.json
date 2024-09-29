@@ -11,9 +11,11 @@
             "id": "b37d7f7b74efb6a1",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Images/General phrases for etwas zusammen plannen.png"
+                "file": "4. Exams Rules/Etwas zusammen plannen.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -95,7 +97,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Images/General phrases for etwas zusammen plannen.png",
+            "file": "4. Exams Rules/Etwas zusammen plannen.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -112,7 +114,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Images/General phrases for etwas zusammen plannen.png",
+            "file": "4. Exams Rules/Etwas zusammen plannen.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -124,7 +126,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Images/General phrases for etwas zusammen plannen.png"
+            "file": "4. Exams Rules/Etwas zusammen plannen.md"
           }
         }
       }
@@ -143,6 +145,9 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "02d9ffdc17ed3908",
-  "lastOpenFiles": []
+  "active": "b37d7f7b74efb6a1",
+  "lastOpenFiles": [
+    "Images/General phrases for etwas zusammen plannen.png",
+    "/1. Grammars/14. Da & Wo Compound.md"
+  ]
 }

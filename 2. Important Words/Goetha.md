@@ -41,7 +41,7 @@
 	einzigartige   unique
 	Abgeordneten   deputy
 	vertrautes     familiar
-
+	trösten  comfort,
 
 
 B2

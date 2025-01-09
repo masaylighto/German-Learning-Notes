@@ -41,8 +41,8 @@
 	einzigartige   unique
 	Abgeordneten   deputy
 	vertrautes     familiar
-	trösten  comfort,
-
+	trösten        comfort,
+	erobert        conquered
 
 B2
 altmodisch   old styled

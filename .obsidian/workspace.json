@@ -169,12 +169,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Grammars/5. Adjective Declension.md",
+                "file": "1. Grammars/3. Cases.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "5. Adjective Declension"
+              "title": "3. Cases"
             }
           },
           {
@@ -318,10 +318,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Grammars/5. Adjective Declension.md"
+                "file": "1. Grammars/3. Cases.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 5. Adjective Declension"
+              "title": "Outline of 3. Cases"
             }
           },
           {
@@ -359,6 +359,7 @@
   },
   "active": "42727aa6f918d787",
   "lastOpenFiles": [
+    "1. Grammars/5. Adjective Declension.md",
     "1. Grammars/3. Cases.md",
     "1. Grammars/10. Conjunctions & Secondary Sentences.md",
     "1. Grammars/12. Subjunctive 2.md",
@@ -370,7 +371,6 @@
     "1. Grammars/17. Conditional Clause.md",
     "1. Grammars/2. Sentence Formation.md",
     "1. Grammars/18. Passive.md",
-    "1. Grammars/5. Adjective Declension.md",
     "4. Exams Rules/Etwas zusammen plannen.md",
     "3. Expressions/Chunks.md",
     "2. Important Words/Various words.md",

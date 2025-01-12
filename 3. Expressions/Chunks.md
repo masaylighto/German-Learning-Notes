@@ -11,4 +11,4 @@
 
 	Geht schon mal vor  = go ahead
 	
-	
+	von allen,  from all

@@ -46,5 +46,7 @@
 	alleinerziehend single parent
 	Zufällig randomly
 	Umschulen retrain
+	allmählich  gradually
+	abdriftete drifted away
 B2
 altmodisch   old styled

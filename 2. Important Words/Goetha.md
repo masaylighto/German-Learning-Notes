@@ -43,6 +43,8 @@
 	vertrautes     familiar
 	trösten        comfort,
 	erobert        conquered
-
+	alleinerziehend single parent
+	Zufällig randomly
+	Umschulen retrain
 B2
 altmodisch   old styled

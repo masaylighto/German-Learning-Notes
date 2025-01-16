@@ -50,5 +50,6 @@
 	abdriftete     drifted away
 	erwähnt        mentioned
 	Angewohnheit   habit
+	womöglich      possibly
 B2
 altmodisch   old styled

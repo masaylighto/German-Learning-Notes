@@ -169,12 +169,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Important Words/Goetha.md",
+                "file": "1. Grammars/18. Passive.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Goetha"
+              "title": "18. Passive"
             }
           },
           {
@@ -318,10 +318,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Important Words/Goetha.md"
+                "file": "1. Grammars/18. Passive.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Goetha"
+              "title": "Outline of 18. Passive"
             }
           },
           {
@@ -359,6 +359,7 @@
   },
   "active": "42727aa6f918d787",
   "lastOpenFiles": [
+    "2. Important Words/Goetha.md",
     "4. Exams Rules/Emails/2. Film schauen.md",
     "1. Grammars/10. Conjunctions & Secondary Sentences.md",
     "1. Grammars/18. Passive.md",
@@ -377,7 +378,6 @@
     "1. Grammars/3. Cases.md",
     "2. Important Words/Lovely words.md",
     "1. Grammars/1. Pronunciation.md",
-    "2. Important Words/Goetha.md",
     "1. Grammars/17. Conditional Clause.md",
     "1. Grammars/2. Sentence Formation.md",
     "4. Exams Rules/Etwas zusammen plannen.md",

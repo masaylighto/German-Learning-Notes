@@ -44,9 +44,11 @@
 	trösten        comfort,
 	erobert        conquered
 	alleinerziehend single parent
-	Zufällig randomly
-	Umschulen retrain
-	allmählich  gradually
-	abdriftete drifted away
+	Zufällig       randomly
+	Umschulen      retrain
+	allmählich     gradually
+	abdriftete     drifted away
+	erwähnt        mentioned
+	Angewohnheit   habit
 B2
 altmodisch   old styled

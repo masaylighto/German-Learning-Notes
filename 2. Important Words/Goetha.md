@@ -51,6 +51,8 @@
 	erwähnt        mentioned
 	Angewohnheit   habit
 	womöglich      possibly
-	bejahen  affirmative
-B2
-altmodisch   old styled
+	bejahen        affirmative
+	verlangen      demand
+	vorwiegend     predominantly
+## B2
+	altmodisch    old styled

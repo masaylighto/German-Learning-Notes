@@ -51,5 +51,6 @@
 	erwähnt        mentioned
 	Angewohnheit   habit
 	womöglich      possibly
+	bejahen  affirmative
 B2
 altmodisch   old styled

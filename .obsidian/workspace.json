@@ -169,12 +169,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Important Words/Lovely words.md",
+                "file": "2. Important Words/Goetha.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lovely words"
+              "title": "Goetha"
             }
           },
           {
@@ -318,10 +318,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Important Words/Lovely words.md"
+                "file": "2. Important Words/Goetha.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Lovely words"
+              "title": "Outline of Goetha"
             }
           },
           {
@@ -359,6 +359,7 @@
   },
   "active": "42727aa6f918d787",
   "lastOpenFiles": [
+    "2. Important Words/Lovely words.md",
     "2. Important Words/Goetha.md",
     "1. Grammars/18. Passive.md",
     "4. Exams Rules/Emails/2. Film schauen.md",
@@ -376,7 +377,6 @@
     "4. Exams Rules/Untitled.md",
     "1. Grammars/14. Da & Wo Compound.md",
     "1. Grammars/3. Cases.md",
-    "2. Important Words/Lovely words.md",
     "1. Grammars/1. Pronunciation.md",
     "1. Grammars/17. Conditional Clause.md",
     "1. Grammars/2. Sentence Formation.md",

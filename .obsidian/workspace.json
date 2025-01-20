@@ -169,12 +169,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Important Words/Goetha.md",
+                "file": "2. Important Words/Usefull words.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Goetha"
+              "title": "Usefull words"
             }
           },
           {
@@ -318,10 +318,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Important Words/Goetha.md"
+                "file": "2. Important Words/Usefull words.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Goetha"
+              "title": "Outline of Usefull words"
             }
           },
           {
@@ -359,8 +359,9 @@
   },
   "active": "42727aa6f918d787",
   "lastOpenFiles": [
-    "2. Important Words/Lovely words.md",
     "2. Important Words/Goetha.md",
+    "2. Important Words/Usefull words.md",
+    "2. Important Words/Lovely words.md",
     "1. Grammars/18. Passive.md",
     "4. Exams Rules/Emails/2. Film schauen.md",
     "1. Grammars/10. Conjunctions & Secondary Sentences.md",
@@ -386,7 +387,6 @@
     "1. Grammars/9. Preposition.md",
     "Images/Local Preposition.png",
     "1. Grammars/11. Time Adverb.md",
-    "1. Grammars/4. Negation.md",
     "Images/More general statment about etwas zusammen plannen.png",
     "Images/General phrases for etwas zusammen plannen.png",
     "4. Exams Rules/Präsentations",

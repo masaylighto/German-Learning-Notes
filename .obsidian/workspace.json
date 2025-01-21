@@ -169,12 +169,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Important Words/Usefull words.md",
+                "file": "4. Exams Rules/Emails/2. Film schauen.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Usefull words"
+              "title": "2. Film schauen"
             }
           },
           {
@@ -318,10 +318,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Important Words/Usefull words.md"
+                "file": "4. Exams Rules/Emails/2. Film schauen.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Usefull words"
+              "title": "Outline of 2. Film schauen"
             }
           },
           {
@@ -359,8 +359,8 @@
   },
   "active": "42727aa6f918d787",
   "lastOpenFiles": [
-    "2. Important Words/Goetha.md",
     "2. Important Words/Usefull words.md",
+    "2. Important Words/Goetha.md",
     "2. Important Words/Lovely words.md",
     "1. Grammars/18. Passive.md",
     "4. Exams Rules/Emails/2. Film schauen.md",

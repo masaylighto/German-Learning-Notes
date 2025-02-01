@@ -12,3 +12,6 @@
 	Geht schon mal vor  = go ahead
 	
 	von allen,  from all
+
+
+	ganz gleich, wie    no matter how  

@@ -6,3 +6,4 @@
 	anteil          portion
 	verwirklichen   achieve
 	Zulauf          popularity
+	erdulden       endure

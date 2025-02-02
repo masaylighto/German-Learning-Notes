@@ -15,3 +15,4 @@
 
 
 	ganz gleich, wie    no matter how  
+	aber du bist weder noch.  but you are neither .

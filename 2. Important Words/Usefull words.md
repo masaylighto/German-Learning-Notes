@@ -20,3 +20,4 @@
 19. **Tragisch** - tragic  
 20. **Innovativ** - innovative  
 21. **abgerissen**  demolished
+22. **eigensinnig**: stubborn 

@@ -7,3 +7,4 @@
 	verwirklichen   achieve
 	Zulauf          popularity
 	erdulden       endure
+	Weggefährten  companions

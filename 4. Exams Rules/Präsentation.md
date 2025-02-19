@@ -29,3 +29,7 @@ Presentation Parts
 
 Ask a partner about their presentation
  ![[Presentation Question.png]]
+ 
+ 
+ 
+ Sehr geehrte Damen und Herren, ich begrüße Sie herzlich zu meiner Präsentation. Heute stelle ich das Thema … vor, es zieht mich an, und infolgedessen habe ich mich dafür entschieden Meine Präsentation besteht aus den folgenden Teilen Zuerst werde ich meine eigene Erfahrung mit Ihnen teilen. Dann gehe ich auf die aktuelle Situation in meinem Heimatland ein. Danach werde ich einige Vor und Nachteile erwähnen. Abschließend erläutere ich meine persönliche Meinung dazu.

@@ -8,4 +8,10 @@
 8. Eigenschaften. characteristics
 9. verbaut: obscure 
 10. Liegestütze: pushups 
-11. 
+11. erfassen: capture
+12. einschätzen: assess 
+13. ausgeliefert: extradiction 
+14. Die Dürreperioden , drought period 
+15. Die Ernte: harvest
+16. vernichten: distroyed
+17. das wachsturn: growth

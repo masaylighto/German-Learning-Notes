@@ -62,9 +62,65 @@
               "icon": "lucide-file",
               "title": "10. Conjunctions & Secondary Sentences"
             }
+          },
+          {
+            "id": "5c843f330ef5923a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1. Grammars/10. Conjunctions & Secondary Sentences.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "10. Conjunctions & Secondary Sentences"
+            }
+          },
+          {
+            "id": "7ec09f1f517ffa34",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1. Grammars/10. Conjunctions & Secondary Sentences.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "10. Conjunctions & Secondary Sentences"
+            }
+          },
+          {
+            "id": "8f17e056958e6ef4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4. Exams Rules/Emails/3. Auto kaufen.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "3. Auto kaufen"
+            }
+          },
+          {
+            "id": "3a79a2d7fd5f8148",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4. Exams Rules/Etwas zusammen plannen.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Etwas zusammen plannen"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -113,8 +169,8 @@
             "state": {
               "type": "starred",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "lucide-ghost",
+              "title": "starred"
             }
           },
           {
@@ -181,7 +237,9 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-tags",
               "title": "Tags"
@@ -192,9 +250,14 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {},
+              "state": {
+                "file": "1. Grammars/18. Passive.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of 18. Passive"
             }
           },
           {
@@ -221,6 +284,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -231,36 +295,36 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "d1295579867aa1d3",
+  "active": "3a79a2d7fd5f8148",
   "lastOpenFiles": [
+    "4. Exams Rules/Emails/2. Film schauen.md",
+    "4. Exams Rules/Emails/1. Computer Kaufen.md",
+    "4. Exams Rules/Präsentation.md",
+    "4. Exams Rules/Etwas zusammen plannen.md",
+    "4. Exams Rules/Describe an image.md",
+    "4. Exams Rules/Präsentations/2 .Alltag mit oder ohne Fernsehen.md",
+    "4. Exams Rules/Präsentations/1. Lernen mit einem Partner.md",
+    "4. Exams Rules/Präsentations/0. Common Topics.md",
+    "1. Grammars/18. Passive.md",
+    "1. Grammars/17. Conditional Clause.md",
+    "1. Grammars/6. Comparative & Superlative.md",
+    "1. Grammars/5. Adjective Declension.md",
+    "1. Grammars/10. Conjunctions & Secondary Sentences.md",
+    "1. Grammars/8. Tenses.md",
+    "1. Grammars/7. Words Rules.md",
+    "1. Grammars/16. Indefinite Pronoun.md",
     "1. Grammars/9. Preposition.md",
     "1. Grammars/11. Time Adverb.md",
     "2. Important Words/Aspket.neu/Kapital 4.md",
     "2. Important Words/Random/Body Parts.md",
     "2. Important Words/Aspket.neu",
     "2. Important Words/Untitled.md",
-    "1. Grammars/5. Adjective Declension.md",
     "2. Important Words/Random",
     "2. Important Words/Random/Irregulär Verben.md",
     "2. Important Words/Random/Verbs.md",
     "2. Important Words/Random/Goetha.md",
     "2. Important Words/Random/Lovely words.md",
-    "1. Grammars/10. Conjunctions & Secondary Sentences.md",
-    "4. Exams Rules/Präsentations/1. Lernen mit einem Partner.md",
-    "4. Exams Rules/Präsentations/0. Common Topics.md",
-    "4. Exams Rules/Präsentation.md",
     "1. Grammars/3. Cases.md",
-    "1. Grammars/4. Negation.md",
-    "1. Grammars/18. Passive.md",
-    "2. Important Words/Random/Various words.md",
-    "1. Grammars/12. Subjunctive 2.md",
-    "1. Grammars/7. Words Rules.md",
-    "1. Grammars/2. Sentence Formation.md",
-    "1. Grammars/14. Da & Wo Compound.md",
-    "1. Grammars/15. Reading Numbers.md",
-    "1. Grammars/16. Indefinite Pronoun.md",
-    "1. Grammars/17. Conditional Clause.md",
-    "3. Expressions/Chunks.md",
     "Pasted image 20250207114146.png",
     "4. Exams Rules/Emails",
     "Images/Local Preposition.png",
